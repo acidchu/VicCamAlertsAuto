@@ -15,4 +15,10 @@
     <string name="camera_alert_body">%1$s, %2$s — about %3$dm away</string>
     <string name="open_map_button">Show camera map</string>
     <string name="map_activity_title">Camera Map</string>
+    <string name="search_hint">Search for a destination</string>
+    <string name="searching_message">Searching…</string>
+    <string name="no_results_message">No results found</string>
+    <string name="calculating_route_message">Calculating route…</string>
+    <string name="route_not_found_message">Could not find a route</string>
+    <string name="arrived_message">You have arrived</string>
 </resources>

@@ -5,20 +5,29 @@ import android.content.pm.PackageManager
 import android.graphics.Canvas
 import android.graphics.Color
 import android.graphics.Paint
+import android.graphics.Path
+import android.location.Location
 import android.location.LocationListener
 import android.location.LocationManager
 import android.os.Handler
 import android.os.Looper
 import androidx.car.app.AppManager
 import androidx.car.app.CarContext
+import androidx.car.app.CarToast
 import androidx.car.app.Screen
 import androidx.car.app.SurfaceCallback
 import androidx.car.app.SurfaceContainer
 import androidx.car.app.model.Action
 import androidx.car.app.model.ActionStrip
 import androidx.car.app.model.CarIcon
+import androidx.car.app.model.Distance
 import androidx.car.app.model.Template
+import androidx.car.app.navigation.NavigationManager
+import androidx.car.app.navigation.NavigationManagerCallback
+import androidx.car.app.navigation.model.Maneuver
 import androidx.car.app.navigation.model.NavigationTemplate
+import androidx.car.app.navigation.model.RoutingInfo
+import androidx.car.app.navigation.model.Step
 import androidx.core.graphics.drawable.IconCompat
 import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.LifecycleOwner
@@ -32,35 +41,46 @@ private const val DEFAULT_ZOOM = 15
 private const val MIN_ZOOM = 3
 private const val MAX_ZOOM = 19
 private const val PINCH_ZOOM_STEP_THRESHOLD = 1.4
+private const val STEP_ADVANCE_THRESHOLD_METERS = 30.0
 
 /**
- * Live, pannable/zoomable street map for the car screen -- the "Waze-style" primary experience.
- * androidx.car.app has no ready-made map template; NavigationTemplate just hosts a Surface that
- * the app draws into directly, so this fetches OpenStreetMap tiles and renders them (plus camera
- * markers and a self marker) with the Canvas API. No turn-by-turn guidance is offered, so
- * NavigationManager.navigationStarted() is intentionally not used -- a live map without route
- * guidance is a supported NavigationTemplate use case.
+ * Live, pannable/zoomable street map for the car screen, with optional destination routing --
+ * the "Waze-style" primary experience. androidx.car.app has no ready-made map template;
+ * NavigationTemplate just hosts a Surface that the app draws into directly, so this fetches
+ * OpenStreetMap tiles and renders them (plus camera markers, the route line, and a self marker)
+ * with the Canvas API. Routes come from OSRM's public demo server -- real turn-by-turn, but no
+ * live traffic data (that server only knows the static OSM road network).
  */
 class CameraNavigationScreen(carContext: CarContext) : Screen(carContext) {
 
     private val tileCache = MapTileCache(carContext)
     private val locationManager = carContext.getSystemService(LocationManager::class.java)
+    private val navigationManager = carContext.getCarService(NavigationManager::class.java)
     private val mainHandler = Handler(Looper.getMainLooper())
     private val cameras: List<Camera> = CameraRepository.loadAll(carContext)
 
     private var surface: android.view.Surface? = null
     private var centerLat = FALLBACK_LAT
     private var centerLon = FALLBACK_LON
+    private var lastKnownLat = FALLBACK_LAT
+    private var lastKnownLon = FALLBACK_LON
     private var zoom = DEFAULT_ZOOM
     private var followingGps = true
     private var pinchAccumulator = 1.0
     private var hasRequestedPermission = false
 
+    private var activeRoute: Route? = null
+    private var currentStepIndex = 0
+    private var isCalculatingRoute = false
+
     private val locationListener = LocationListener { location ->
+        lastKnownLat = location.latitude
+        lastKnownLon = location.longitude
         if (followingGps) {
             centerLat = location.latitude
             centerLon = location.longitude
         }
+        activeRoute?.let { advanceRouteProgress(it, location) }
         drawFrame()
     }
 
@@ -103,23 +123,32 @@ class CameraNavigationScreen(carContext: CarContext) : Screen(carContext) {
 
     init {
         carContext.getCarService(AppManager::class.java).setSurfaceCallback(surfaceCallback)
+        navigationManager.setNavigationManagerCallback(object : NavigationManagerCallback {
+            override fun onStopNavigation() {
+                stopNavigation()
+            }
+        })
         startLocationUpdates()
         lifecycle.addObserver(object : DefaultLifecycleObserver {
             override fun onDestroy(owner: LifecycleOwner) {
                 locationManager.removeUpdates(locationListener)
+                if (activeRoute != null) navigationManager.navigationEnded()
             }
         })
     }
 
     override fun onGetTemplate(): Template {
         ensureLocationPermission()
-        return NavigationTemplate.Builder()
-            .setActionStrip(buildActionStrip())
-            .build()
+        val builder = NavigationTemplate.Builder().setActionStrip(buildActionStrip())
+        val route = activeRoute
+        if (route != null && currentStepIndex < route.steps.size) {
+            builder.setNavigationInfo(buildRoutingInfo(route, currentStepIndex))
+        }
+        return builder.build()
     }
 
     private fun buildActionStrip(): ActionStrip {
-        return ActionStrip.Builder()
+        val builder = ActionStrip.Builder()
             .addAction(
                 Action.Builder()
                     .setIcon(CarIcon.Builder(IconCompat.createWithResource(carContext, R.drawable.ic_recenter)).build())
@@ -135,7 +164,112 @@ class CameraNavigationScreen(carContext: CarContext) : Screen(carContext) {
                     .setOnClickListener { screenManager.push(CameraListScreen(carContext)) }
                     .build()
             )
-            .build()
+
+        if (activeRoute != null) {
+            builder.addAction(
+                Action.Builder()
+                    .setIcon(CarIcon.Builder(IconCompat.createWithResource(carContext, R.drawable.ic_stop)).build())
+                    .setOnClickListener { stopNavigation() }
+                    .build()
+            )
+        } else {
+            builder.addAction(
+                Action.Builder()
+                    .setIcon(CarIcon.Builder(IconCompat.createWithResource(carContext, R.drawable.ic_search)).build())
+                    .setOnClickListener {
+                        screenManager.push(DestinationSearchScreen(carContext) { result ->
+                            screenManager.pop()
+                            startNavigationTo(result)
+                        })
+                    }
+                    .build()
+            )
+        }
+        return builder.build()
+    }
+
+    private fun startNavigationTo(destination: SearchResult) {
+        if (isCalculatingRoute) return
+        isCalculatingRoute = true
+        CarToast.makeText(carContext, carContext.getString(R.string.calculating_route_message), CarToast.LENGTH_SHORT).show()
+
+        val originLat = lastKnownLat
+        val originLon = lastKnownLon
+        Thread {
+            val route = OsrmRoutingClient.fetchRoute(originLat, originLon, destination.lat, destination.lon)
+            mainHandler.post {
+                isCalculatingRoute = false
+                if (route == null || route.steps.isEmpty()) {
+                    CarToast.makeText(carContext, carContext.getString(R.string.route_not_found_message), CarToast.LENGTH_LONG).show()
+                    return@post
+                }
+                activeRoute = route
+                currentStepIndex = 0
+                followingGps = true
+                navigationManager.navigationStarted()
+                invalidate()
+                drawFrame()
+            }
+        }.start()
+    }
+
+    private fun stopNavigation() {
+        if (activeRoute == null) return
+        activeRoute = null
+        currentStepIndex = 0
+        navigationManager.navigationEnded()
+        invalidate()
+        drawFrame()
+    }
+
+    private fun advanceRouteProgress(route: Route, location: Location) {
+        if (currentStepIndex >= route.steps.size) return
+        val step = route.steps[currentStepIndex]
+        val distance = haversineMeters(location.latitude, location.longitude, step.lat, step.lon)
+        if (distance > STEP_ADVANCE_THRESHOLD_METERS) return
+
+        if (currentStepIndex == route.steps.size - 1) {
+            CarToast.makeText(carContext, carContext.getString(R.string.arrived_message), CarToast.LENGTH_LONG).show()
+            stopNavigation()
+        } else {
+            currentStepIndex++
+            invalidate()
+        }
+    }
+
+    private fun buildRoutingInfo(route: Route, stepIndex: Int): RoutingInfo {
+        val step = route.steps[stepIndex]
+        val distanceRemaining = haversineMeters(lastKnownLat, lastKnownLon, step.lat, step.lon)
+        val stepDistance = Distance.create(max(distanceRemaining, 0.0), Distance.UNIT_METERS)
+        val maneuver = Maneuver.Builder(osrmManeuverToCarType(step.maneuverType, step.maneuverModifier)).build()
+        val carStep = Step.Builder(step.instruction).setManeuver(maneuver).build()
+
+        val builder = RoutingInfo.Builder().setCurrentStep(carStep, stepDistance)
+        if (stepIndex + 1 < route.steps.size) {
+            val next = route.steps[stepIndex + 1]
+            val nextManeuver = Maneuver.Builder(osrmManeuverToCarType(next.maneuverType, next.maneuverModifier)).build()
+            builder.setNextStep(Step.Builder(next.instruction).setManeuver(nextManeuver).build())
+        }
+        return builder.build()
+    }
+
+    private fun osrmManeuverToCarType(type: String, modifier: String?): Int {
+        return when (type) {
+            "depart" -> Maneuver.TYPE_DEPART
+            "arrive" -> Maneuver.TYPE_DESTINATION
+            "merge" -> if (modifier == "left") Maneuver.TYPE_MERGE_LEFT else Maneuver.TYPE_MERGE_RIGHT
+            "fork" -> if (modifier == "left") Maneuver.TYPE_FORK_LEFT else Maneuver.TYPE_FORK_RIGHT
+            else -> when (modifier) {
+                "left" -> Maneuver.TYPE_TURN_NORMAL_LEFT
+                "right" -> Maneuver.TYPE_TURN_NORMAL_RIGHT
+                "sharp left" -> Maneuver.TYPE_TURN_SHARP_LEFT
+                "sharp right" -> Maneuver.TYPE_TURN_SHARP_RIGHT
+                "slight left" -> Maneuver.TYPE_TURN_SLIGHT_LEFT
+                "slight right" -> Maneuver.TYPE_TURN_SLIGHT_RIGHT
+                "uturn" -> Maneuver.TYPE_U_TURN_LEFT
+                else -> Maneuver.TYPE_STRAIGHT
+            }
+        }
     }
 
     private fun startLocationUpdates() {
@@ -193,6 +327,7 @@ class CameraNavigationScreen(carContext: CarContext) : Screen(carContext) {
         val screenCenterY = height / 2.0
 
         drawTiles(canvas, centerWorld, screenCenterX, screenCenterY, width, height)
+        activeRoute?.let { drawRoute(canvas, it, centerWorld, screenCenterX, screenCenterY) }
         drawCameras(canvas, centerWorld, screenCenterX, screenCenterY, width, height)
         drawSelfMarker(canvas, screenCenterX, screenCenterY)
     }
@@ -227,6 +362,36 @@ class CameraNavigationScreen(carContext: CarContext) : Screen(carContext) {
                 }
             }
         }
+    }
+
+    private fun drawRoute(
+        canvas: Canvas,
+        route: Route,
+        centerWorld: DoubleArray,
+        screenCenterX: Double,
+        screenCenterY: Double,
+    ) {
+        val paint = Paint(Paint.ANTI_ALIAS_FLAG).apply {
+            color = Color.parseColor("#1E88E5")
+            style = Paint.Style.STROKE
+            strokeWidth = 14f
+            strokeCap = Paint.Cap.ROUND
+            strokeJoin = Paint.Join.ROUND
+        }
+        val path = Path()
+        var started = false
+        for (point in route.points) {
+            val world = MercatorProjection.toWorldPixel(point[0], point[1], zoom)
+            val x = (world[0] - centerWorld[0] + screenCenterX).toFloat()
+            val y = (world[1] - centerWorld[1] + screenCenterY).toFloat()
+            if (!started) {
+                path.moveTo(x, y)
+                started = true
+            } else {
+                path.lineTo(x, y)
+            }
+        }
+        canvas.drawPath(path, paint)
     }
 
     private fun drawCameras(
