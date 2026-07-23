@@ -1,6 +1,7 @@
 package com.vicmobilecams.auto
 
 import android.Manifest
+import android.content.Intent
 import android.content.pm.PackageManager
 import android.os.Build
 import android.os.Bundle
@@ -34,6 +35,10 @@ class MainActivity : AppCompatActivity() {
 
         binding.toggleAlertsButton.setOnClickListener { toggleAlerts() }
         updateToggleButton()
+
+        binding.openMapButton.setOnClickListener {
+            startActivity(Intent(this, MapActivity::class.java))
+        }
     }
 
     private fun toggleAlerts() {

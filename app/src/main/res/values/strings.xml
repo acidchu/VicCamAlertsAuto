@@ -13,4 +13,6 @@
     <string name="monitoring_notification_body">Vic Camera Alerts is checking your location for nearby cameras.</string>
     <string name="camera_alert_title">Mobile camera nearby</string>
     <string name="camera_alert_body">%1$s, %2$s — about %3$dm away</string>
+    <string name="open_map_button">Show camera map</string>
+    <string name="map_activity_title">Camera Map</string>
 </resources>

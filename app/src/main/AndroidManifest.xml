@@ -35,6 +35,11 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".MapActivity"
+            android:exported="false"
+            android:label="@string/map_activity_title" />
+
         <service
             android:name=".CameraCarAppService"
             android:exported="true"
