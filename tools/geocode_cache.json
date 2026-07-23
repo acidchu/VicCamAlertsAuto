@@ -1,0 +1,3627 @@
+{
+  "Abey Road|COBBLEBANK": {
+    "lat": -37.706033,
+    "lon": 144.6005327,
+    "precision": "street"
+  },
+  "Acacia Street|GLENROY": {
+    "lat": -37.7079036,
+    "lon": 144.9245845,
+    "precision": "street"
+  },
+  "Adam Street|GOLDEN SQUARE": {
+    "lat": -36.7805928,
+    "lon": 144.2703329,
+    "precision": "street"
+  },
+  "Agar Road|CORONET BAY": {
+    "lat": -38.4534202,
+    "lon": 145.4429176,
+    "precision": "street"
+  },
+  "Aitken Boulevard|ROXBURGH PARK": {
+    "lat": -37.60877,
+    "lon": 144.9122729,
+    "precision": "street"
+  },
+  "Aitken Boulevard|CRAIGIEBURN": {
+    "lat": -37.589755,
+    "lon": 144.9110415,
+    "precision": "street"
+  },
+  "Aitken Street|ALEXANDRA": {
+    "lat": -37.1878996,
+    "lon": 145.7041689,
+    "precision": "street"
+  },
+  "Albert Avenue|BORONIA": {
+    "lat": -37.8548814,
+    "lon": 145.2971857,
+    "precision": "street"
+  },
+  "Albert Road|WARRAGUL": {
+    "lat": -38.1616645,
+    "lon": 145.9422155,
+    "precision": "street"
+  },
+  "Albert Street|EAST MELBOURNE": {
+    "lat": -37.8107864,
+    "lon": 144.9875003,
+    "precision": "street"
+  },
+  "Alexanders Road|MORWELL": {
+    "lat": -38.2037928,
+    "lon": 146.4471231,
+    "precision": "street"
+  },
+  "Alexandra Street|GREENSBOROUGH": {
+    "lat": -37.7078388,
+    "lon": 145.1022812,
+    "precision": "street"
+  },
+  "Alfred Street|HEIDELBERG HEIGHTS": {
+    "lat": -37.7515641,
+    "lon": 145.0526246,
+    "precision": "street"
+  },
+  "Allan Street|KYABRAM": {
+    "lat": -36.3135089,
+    "lon": 145.0486359,
+    "precision": "street"
+  },
+  "Allenby Avenue|RESERVOIR": {
+    "lat": -37.700387,
+    "lon": 145.004295,
+    "precision": "street"
+  },
+  "Allies Road|MYERS FLAT": {
+    "lat": -36.7163051,
+    "lon": 144.2063835,
+    "precision": "street"
+  },
+  "Allingham Street|KANGAROO FLAT": {
+    "lat": -36.7926606,
+    "lon": 144.2501767,
+    "precision": "street"
+  },
+  "Ambrose Treacy Drive|BUNDOORA": {
+    "lat": -37.6883546,
+    "lon": 145.0682734,
+    "precision": "street"
+  },
+  "Anderson Road|SUNSHINE": {
+    "lat": -37.7865041,
+    "lon": 144.8272126,
+    "precision": "street"
+  },
+  "Anderson Road|FAWKNER": {
+    "lat": -37.6950798,
+    "lon": 144.9621735,
+    "precision": "street"
+  },
+  "Anderson Street|MELBOURNE": {
+    "lat": -37.7539328,
+    "lon": 145.355764,
+    "precision": "street"
+  },
+  "Andersons Creek Road|DONCASTER EAST": {
+    "lat": -37.7637034,
+    "lon": 145.1729333,
+    "precision": "street"
+  },
+  "Anzac Parade|BANDIANA": {
+    "lat": -36.1399275,
+    "lon": 146.9139677,
+    "precision": "street"
+  },
+  "Anzac Road|TRAFALGAR": {
+    "lat": -38.2109233,
+    "lon": 146.1571421,
+    "precision": "street"
+  },
+  "Apollo Road|TAYLORS LAKES": {
+    "lat": -37.7085947,
+    "lon": 144.8036732,
+    "precision": "street"
+  },
+  "Appin  Street|WANGARATTA": {
+    "lat": -36.3549161,
+    "lon": 146.2987235,
+    "precision": "street"
+  },
+  "Ararat-Halls Gap Road|POMONAL": {
+    "lat": -37.1560879,
+    "lon": 142.5775674,
+    "precision": "street"
+  },
+  "Ararat-Halls Gap Road|JALLUKAR": {
+    "lat": -37.2265795,
+    "lon": 142.7138896,
+    "precision": "suburb"
+  },
+  "Ararat-Halls Gap Road|MOYSTON": {
+    "lat": -37.2970629,
+    "lon": 142.8221304,
+    "precision": "street"
+  },
+  "Ararat-Halls Gap Road|HALLS GAP": {
+    "lat": -37.1560879,
+    "lon": 142.5775674,
+    "precision": "street"
+  },
+  "Arcadia Avenue|THE BASIN": {
+    "lat": -37.8580439,
+    "lon": 145.3048924,
+    "precision": "street"
+  },
+  "Army Road|PAKENHAM": {
+    "lat": -38.0385593,
+    "lon": 145.5028304,
+    "precision": "street"
+  },
+  "Army Road|PAKENHAM UPPER": {
+    "lat": -38.0385593,
+    "lon": 145.5028304,
+    "precision": "street"
+  },
+  "Arnot Street|BONNIE DOON": {
+    "lat": -37.0238471,
+    "lon": 145.8562428,
+    "precision": "street"
+  },
+  "Arthur Street|ST ALBANS": {
+    "lat": -37.730993,
+    "lon": 144.809082,
+    "precision": "street"
+  },
+  "Arthurs Creek Road|ARTHURS CREEK": {
+    "lat": -37.5701517,
+    "lon": 145.1768586,
+    "precision": "street"
+  },
+  "Arthurs Creek Road|YAN YEAN": {
+    "lat": -37.57259,
+    "lon": 145.1439427,
+    "precision": "street"
+  },
+  "Arthurs Seat Road|RED HILL": {
+    "lat": -38.3537447,
+    "lon": 144.9518526,
+    "precision": "street"
+  },
+  "Arundel Road|KEILOR": {
+    "lat": -37.7075541,
+    "lon": 144.8321273,
+    "precision": "street"
+  },
+  "Ascot Vale Road|ASCOT VALE": {
+    "lat": -37.7770453,
+    "lon": 144.9231823,
+    "precision": "street"
+  },
+  "Ashcroft Avenue|WILLIAMS LANDING": {
+    "lat": -37.8622981,
+    "lon": 144.7478294,
+    "precision": "street"
+  },
+  "Aspinall Street|GOLDEN SQUARE": {
+    "lat": -36.7779283,
+    "lon": 144.2431461,
+    "precision": "street"
+  },
+  "Atherton Road|OAKLEIGH": {
+    "lat": -37.9008732,
+    "lon": 145.1050837,
+    "precision": "street"
+  },
+  "Atkins Road|PAKENHAM": {
+    "lat": -38.0697707,
+    "lon": 145.4879782,
+    "precision": "street"
+  },
+  "Auburn Road|HAWTHORN": {
+    "lat": -37.8302636,
+    "lon": 145.0435861,
+    "precision": "street"
+  },
+  "Aughtie Drive|ALBERT PARK": {
+    "lat": -37.8393179,
+    "lon": 144.9634364,
+    "precision": "street"
+  },
+  "Avenel Road|SEYMOUR": {
+    "lat": -37.0044886,
+    "lon": 145.1557493,
+    "precision": "street"
+  },
+  "Avenel-Nagambie Rd|AVENEL": {
+    "lat": -36.8893183,
+    "lon": 145.225018,
+    "precision": "street"
+  },
+  "Avenel-Nagambie Road|AVENEL": {
+    "lat": -36.8695948,
+    "lon": 145.1740321,
+    "precision": "street"
+  },
+  "Avenue of Honour|WOODEND NORTH": {
+    "lat": -37.3204877,
+    "lon": 144.5260957,
+    "precision": "street"
+  },
+  "Averys Road|EAGLEHAWK": {
+    "lat": -36.7128926,
+    "lon": 144.2658096,
+    "precision": "street"
+  },
+  "Avondale Avenue|ST ALBANS": {
+    "lat": -37.7422866,
+    "lon": 144.8151489,
+    "precision": "street"
+  },
+  "Axe Creek Road|AXE CREEK": {
+    "lat": -36.8732021,
+    "lon": 144.3810929,
+    "precision": "street"
+  },
+  "Baanip Boulevard|MOUNT DUNEED": {
+    "lat": -38.213234,
+    "lon": 144.3373445,
+    "precision": "street"
+  },
+  "Back Beach Road|VENTNOR": {
+    "lat": -38.4967133,
+    "lon": 145.2580004,
+    "precision": "street"
+  },
+  "Back Eildon Road|THORNTON": {
+    "lat": -37.2584044,
+    "lon": 145.8513031,
+    "precision": "street"
+  },
+  "Back Porepunkah Road|POREPUNKAH": {
+    "lat": -36.7031764,
+    "lon": 146.9244117,
+    "precision": "street"
+  },
+  "Bailey Street|TIMBOON": {
+    "lat": -38.4827972,
+    "lon": 142.9680191,
+    "precision": "street"
+  },
+  "Bakers Road|NOBLE PARK NORTH": {
+    "lat": -37.9465686,
+    "lon": 145.1976619,
+    "precision": "street"
+  },
+  "Balcombe Road|BEAUMARIS": {
+    "lat": -37.979763,
+    "lon": 145.0525717,
+    "precision": "street"
+  },
+  "Balcombe Road|MENTONE": {
+    "lat": -37.9813041,
+    "lon": 145.065193,
+    "precision": "street"
+  },
+  "Ballan Road|BATESFORD": {
+    "lat": -38.0966604,
+    "lon": 144.3050695,
+    "precision": "street"
+  },
+  "Ballan-Daylesford Road|BUNDING": {
+    "lat": -37.5317194,
+    "lon": 144.1748746,
+    "precision": "street"
+  },
+  "Ballan-Daylesford Road|KORWEINGUBOORA": {
+    "lat": -37.4578884,
+    "lon": 144.1394473,
+    "precision": "street"
+  },
+  "Ballarat  Road|ARDEER": {
+    "lat": -37.7707512,
+    "lon": 144.7971371,
+    "precision": "street"
+  },
+  "Ballarat Road|BRAYBROOK": {
+    "lat": -37.7795186,
+    "lon": 144.8507186,
+    "precision": "street"
+  },
+  "Ballarat Road|DEER PARK": {
+    "lat": -37.7666912,
+    "lon": 144.7640712,
+    "precision": "street"
+  },
+  "Ballarat Road|ALBION": {
+    "lat": -37.775211,
+    "lon": 144.8139795,
+    "precision": "street"
+  },
+  "Ballarat Road|RAVENHALL": {
+    "lat": -37.7565183,
+    "lon": 144.740202,
+    "precision": "street"
+  },
+  "Ballarat Road|FOOTSCRAY": {
+    "lat": -37.7930496,
+    "lon": 144.8956664,
+    "precision": "street"
+  },
+  "Ballarat Road|HAMILTON": {
+    "lat": -37.7429661,
+    "lon": 142.0432841,
+    "precision": "street"
+  },
+  "Ballarat-Maryborough Road|DAISY HILL": {
+    "lat": -37.1141326,
+    "lon": 143.7192198,
+    "precision": "street"
+  },
+  "Ballarto Road|SKYE": {
+    "lat": -38.1174746,
+    "lon": 145.196484,
+    "precision": "street"
+  },
+  "Balwyn Road|BALWYN": {
+    "lat": -37.8083812,
+    "lon": 145.0822033,
+    "precision": "street"
+  },
+  "Bambra Road|CAULFIELD SOUTH": {
+    "lat": -37.8878769,
+    "lon": 145.0287722,
+    "precision": "street"
+  },
+  "Banbury Road|RESERVOIR": {
+    "lat": -37.7074068,
+    "lon": 144.9901325,
+    "precision": "street"
+  },
+  "Bandiana Link Road|WODONGA": {
+    "lat": -36.109275,
+    "lon": 146.8983825,
+    "precision": "street"
+  },
+  "Bank Street|AVENEL": {
+    "lat": -36.8893183,
+    "lon": 145.225018,
+    "precision": "street"
+  },
+  "Banksia Street|HEIDELBERG HEIGHTS": {
+    "lat": -37.7451831,
+    "lon": 145.0529194,
+    "precision": "suburb"
+  },
+  "Banksia Street|IVANHOE": {
+    "lat": -37.7573434,
+    "lon": 145.0474762,
+    "precision": "street"
+  },
+  "Bannons Lane|YARRAMBAT": {
+    "lat": -37.6261076,
+    "lon": 145.1380355,
+    "precision": "street"
+  },
+  "Banyule Road|VIEWBANK": {
+    "lat": -37.7385065,
+    "lon": 145.0968545,
+    "precision": "street"
+  },
+  "Baranduda Boulevard|BARANDUDA": {
+    "lat": -36.1691032,
+    "lon": 146.9290183,
+    "precision": "street"
+  },
+  "Baranduda Boulevard|LENEVA": {
+    "lat": -36.1691795,
+    "lon": 146.9102014,
+    "precision": "street"
+  },
+  "Barkly Street|FOOTSCRAY": {
+    "lat": -37.7985741,
+    "lon": 144.8886047,
+    "precision": "street"
+  },
+  "Barkly Street|ARARAT": {
+    "lat": -37.2856461,
+    "lon": 142.9498311,
+    "precision": "street"
+  },
+  "Barkly Street|WEST FOOTSCRAY": {
+    "lat": -37.7975721,
+    "lon": 144.8787887,
+    "precision": "street"
+  },
+  "Barkly Street West|ARARAT": {
+    "lat": -37.2875168,
+    "lon": 142.9170093,
+    "precision": "street"
+  },
+  "Barmah-Shepparton Road|ZEERUST": {
+    "lat": -36.29278,
+    "lon": 145.3777006,
+    "precision": "street"
+  },
+  "Barmah-Shepparton Road|BUNBARTHA": {
+    "lat": -36.2787408,
+    "lon": 145.3695908,
+    "precision": "street"
+  },
+  "Barnes Boulevard|HORSHAM": {
+    "lat": -36.7266877,
+    "lon": 142.169979,
+    "precision": "street"
+  },
+  "Barrabool Road|HIGHTON": {
+    "lat": -38.1705941,
+    "lon": 144.317316,
+    "precision": "street"
+  },
+  "Barrabool Road|CERES": {
+    "lat": -38.1702379,
+    "lon": 144.2395165,
+    "precision": "street"
+  },
+  "Barrands Lane|DRYSDALE": {
+    "lat": -38.1697916,
+    "lon": 144.5669915,
+    "precision": "street"
+  },
+  "Barries Road|MELTON": {
+    "lat": -37.6891801,
+    "lon": 144.5809949,
+    "precision": "street"
+  },
+  "Barry Road|COOLAROO": {
+    "lat": -37.6641655,
+    "lon": 144.9254249,
+    "precision": "street"
+  },
+  "Barrymore Road|GREENVALE": {
+    "lat": -37.6536689,
+    "lon": 144.8856931,
+    "precision": "street"
+  },
+  "Barwon Heads Road|CONNEWARRE": {
+    "lat": -38.2612426,
+    "lon": 144.4338774,
+    "precision": "street"
+  },
+  "Bass Highway|INVERLOCH": {
+    "lat": -38.6164954,
+    "lon": 145.6583977,
+    "precision": "street"
+  },
+  "Bass Highway|LANG LANG SOUTH": {
+    "lat": -38.166803,
+    "lon": 144.3612521,
+    "precision": "suburb"
+  },
+  "Bass Highway|DALYSTON": {
+    "lat": -38.5727482,
+    "lon": 145.5693727,
+    "precision": "street"
+  },
+  "Bass Highway|LEONGATHA SOUTH": {
+    "lat": -38.5345433,
+    "lon": 145.8721504,
+    "precision": "street"
+  },
+  "Bass Highway|THE GURDIES": {
+    "lat": -38.3980499,
+    "lon": 145.5378391,
+    "precision": "street"
+  },
+  "Batesford Road|MALVERN EAST": {
+    "lat": -37.8762853,
+    "lon": 145.0881021,
+    "precision": "street"
+  },
+  "Baxter-Tooradin Road|BAXTER": {
+    "lat": -38.1984388,
+    "lon": 145.1776553,
+    "precision": "street"
+  },
+  "Baxter-Tooradin Road|PEARCEDALE": {
+    "lat": -38.2018516,
+    "lon": 145.2260576,
+    "precision": "street"
+  },
+  "Baxter-Tooradin Road|DEVON MEADOWS": {
+    "lat": -38.198567,
+    "lon": 145.3118626,
+    "precision": "street"
+  },
+  "Bayswater Road|CROYDON": {
+    "lat": -37.8018906,
+    "lon": 145.2737159,
+    "precision": "street"
+  },
+  "Bayview Road|ROSEBUD": {
+    "lat": -38.3734605,
+    "lon": 144.9087449,
+    "precision": "street"
+  },
+  "Beach Road|BLACK ROCK": {
+    "lat": -37.9822934,
+    "lon": 145.0205025,
+    "precision": "street"
+  },
+  "Beach Road|BEAUMARIS": {
+    "lat": -37.9894879,
+    "lon": 145.0447325,
+    "precision": "street"
+  },
+  "Beach Road|SANDRINGHAM": {
+    "lat": -37.9462894,
+    "lon": 145.0008889,
+    "precision": "street"
+  },
+  "Beach Road|MORDIALLOC": {
+    "lat": -38.0086372,
+    "lon": 145.0856928,
+    "precision": "street"
+  },
+  "Beach Road|PARKDALE": {
+    "lat": -37.9971199,
+    "lon": 145.0725582,
+    "precision": "street"
+  },
+  "Beach Street|FRANKSTON": {
+    "lat": -38.1422661,
+    "lon": 145.130075,
+    "precision": "street"
+  },
+  "Beacon Point Road|CLIFTON SPRINGS": {
+    "lat": -38.1493385,
+    "lon": 144.575414,
+    "precision": "street"
+  },
+  "Beaconsfield Parade|MIDDLE PARK": {
+    "lat": -37.8562624,
+    "lon": 144.9659994,
+    "precision": "street"
+  },
+  "Beaconsfield Parade|ALBERT PARK": {
+    "lat": -37.8468033,
+    "lon": 144.9464398,
+    "precision": "street"
+  },
+  "Beaconsfield-Emerald Road|BEACONSFIELD": {
+    "lat": -38.0427804,
+    "lon": 145.3675246,
+    "precision": "street"
+  },
+  "Beaconsfield-Emerald Road|DEWHURST": {
+    "lat": -37.9742136,
+    "lon": 145.4655223,
+    "precision": "street"
+  },
+  "Beaufort-Skipton Road|LAKE GOLDSMITH": {
+    "lat": -37.534488,
+    "lon": 143.3884745,
+    "precision": "suburb"
+  },
+  "Beechworth Road|WODONGA": {
+    "lat": -36.1332954,
+    "lon": 146.8862962,
+    "precision": "street"
+  },
+  "Beechworth-Wangaratta Road|EVERTON UPPER": {
+    "lat": -36.4005692,
+    "lon": 146.556789,
+    "precision": "street"
+  },
+  "Beechworth-Wodonga Road|LENEVA": {
+    "lat": -36.2004962,
+    "lon": 146.8933196,
+    "precision": "street"
+  },
+  "Beischer Street|STRATHDALE": {
+    "lat": -36.7574212,
+    "lon": 144.3083561,
+    "precision": "street"
+  },
+  "Belgrave Road|MALVERN EAST": {
+    "lat": -37.8844978,
+    "lon": 145.0675008,
+    "precision": "street"
+  },
+  "Belgrave-Hallam Road|NARRE WARREN EAST": {
+    "lat": -37.9637405,
+    "lon": 145.3399135,
+    "precision": "street"
+  },
+  "Belgrave-Hallam Road|NARRE WARREN NORTH": {
+    "lat": -37.9801611,
+    "lon": 145.3108327,
+    "precision": "street"
+  },
+  "Bell Street|HEIDELBERG WEST": {
+    "lat": -37.7492873,
+    "lon": 145.0375294,
+    "precision": "street"
+  },
+  "Bell Street|COBURG": {
+    "lat": -37.7400017,
+    "lon": 144.9533526,
+    "precision": "street"
+  },
+  "Bellarine Highway|MOOLAP": {
+    "lat": -38.1766437,
+    "lon": 144.4137113,
+    "precision": "street"
+  },
+  "Bellarine Highway|LEOPOLD": {
+    "lat": -38.1886681,
+    "lon": 144.4627296,
+    "precision": "street"
+  },
+  "Bellarine Highway|POINT LONSDALE": {
+    "lat": -38.2619189,
+    "lon": 144.6109407,
+    "precision": "street"
+  },
+  "Bellbridge Drive|HOPPERS CROSSING": {
+    "lat": -37.8748628,
+    "lon": 144.7071955,
+    "precision": "street"
+  },
+  "Bells Avenue|KALKALLO": {
+    "lat": -37.5339358,
+    "lon": 144.9673443,
+    "precision": "street"
+  },
+  "Belmore Road|BALWYN": {
+    "lat": -37.800826,
+    "lon": 145.0628008,
+    "precision": "street"
+  },
+  "Belmore Road|BOX HILL NORTH": {
+    "lat": -37.8056831,
+    "lon": 145.1295748,
+    "precision": "suburb"
+  },
+  "Benalla-Winton Road|BENALLA": {
+    "lat": -36.5485865,
+    "lon": 145.996894,
+    "precision": "street"
+  },
+  "Benalla-Yarrawonga Road|GOORAMBAT": {
+    "lat": -36.3985057,
+    "lon": 145.9816372,
+    "precision": "street"
+  },
+  "Benalla-Yarrawonga Road|YARRAWONGA": {
+    "lat": -36.0268932,
+    "lon": 145.9958146,
+    "precision": "street"
+  },
+  "Benalla-Yarrawonga Road|DEVENISH": {
+    "lat": -36.3279857,
+    "lon": 145.9609665,
+    "precision": "street"
+  },
+  "Bendigo-Maldon Road|MALDON": {
+    "lat": -36.9252635,
+    "lon": 144.1335307,
+    "precision": "street"
+  },
+  "Bendigo-Murchison Road|WANALTA": {
+    "lat": -36.5886878,
+    "lon": 144.9529343,
+    "precision": "street"
+  },
+  "Bendigo-Murchison Road|MURCHISON": {
+    "lat": -36.6152643,
+    "lon": 145.2400955,
+    "precision": "street"
+  },
+  "Bendigo-Pyramid Hill Road|RAYWOOD": {
+    "lat": -36.5346745,
+    "lon": 144.2053477,
+    "precision": "suburb"
+  },
+  "Bendigo-Pyramid Hill Road|WOODVALE": {
+    "lat": -36.654616,
+    "lon": 144.1871941,
+    "precision": "suburb"
+  },
+  "Bendigo-Redesdale Road|STRATHFIELDSAYE": {
+    "lat": -36.800724,
+    "lon": 144.3460564,
+    "precision": "street"
+  },
+  "Bendigo-Sutton Grange Road|SUTTON GRANGE": {
+    "lat": -37.0241257,
+    "lon": 144.3669058,
+    "precision": "street"
+  },
+  "Benetook Avenue|MILDURA SOUTH": {
+    "lat": -34.2095452,
+    "lon": 142.1243623,
+    "precision": "suburb"
+  },
+  "Benetook Avenue|MILDURA": {
+    "lat": -34.188098,
+    "lon": 142.1887934,
+    "precision": "street"
+  },
+  "Benetook Avenue|KOORLONG": {
+    "lat": -34.2785401,
+    "lon": 142.0854268,
+    "precision": "street"
+  },
+  "Bengworden Road|CLYDEBANK": {
+    "lat": -38.0492943,
+    "lon": 147.1665299,
+    "precision": "street"
+  },
+  "Bengworden Road|BENGWORDEN": {
+    "lat": -37.9502529,
+    "lon": 147.5197199,
+    "precision": "street"
+  },
+  "Bengworden Road|COBAINS": {
+    "lat": -38.0692526,
+    "lon": 147.0838702,
+    "precision": "street"
+  },
+  "Bengworden Road|PERRY BRIDGE": {
+    "lat": -38.020168,
+    "lon": 147.1846308,
+    "precision": "street"
+  },
+  "Bennett Street|IRONBARK": {
+    "lat": -36.7502818,
+    "lon": 144.2651879,
+    "precision": "street"
+  },
+  "Bergins Road|ROWVILLE": {
+    "lat": -37.929791,
+    "lon": 145.2337394,
+    "precision": "street"
+  },
+  "Berkshire Road|SUNSHINE NORTH": {
+    "lat": -37.7644588,
+    "lon": 144.8316707,
+    "precision": "street"
+  },
+  "Berrabri Drive|SCORESBY": {
+    "lat": -37.8919763,
+    "lon": 145.2161994,
+    "precision": "street"
+  },
+  "Biggs Street|ST ALBANS": {
+    "lat": -37.7369301,
+    "lon": 144.801662,
+    "precision": "street"
+  },
+  "Birchip-Wycheproof Road|BIRCHIP": {
+    "lat": -35.9903761,
+    "lon": 142.963076,
+    "precision": "street"
+  },
+  "Birchwood Boulevard|HOPPERS CROSSING": {
+    "lat": -37.8633572,
+    "lon": 144.7158893,
+    "precision": "street"
+  },
+  "Birregurra Forrest  Road|BARWON DOWNS": {
+    "lat": -38.4279079,
+    "lon": 143.7764636,
+    "precision": "street"
+  },
+  "Birregurra Forrest Road|MURROON": {
+    "lat": -38.4279079,
+    "lon": 143.7764636,
+    "precision": "street"
+  },
+  "Black Dog Drive|BROOKFIELD": {
+    "lat": -37.6942311,
+    "lon": 144.5616251,
+    "precision": "street"
+  },
+  "Black Flat Road|WHITTLESEA": {
+    "lat": -37.50562,
+    "lon": 145.1144577,
+    "precision": "street"
+  },
+  "Black Forest Drive|MACEDON": {
+    "lat": -37.4131109,
+    "lon": 144.5429366,
+    "precision": "street"
+  },
+  "Black Forest Road|WERRIBEE": {
+    "lat": -37.8990863,
+    "lon": 144.6061513,
+    "precision": "street"
+  },
+  "Black Forest Road|WYNDHAM VALE": {
+    "lat": -37.8997589,
+    "lon": 144.6119401,
+    "precision": "street"
+  },
+  "Blackburn Road|BLACKBURN SOUTH": {
+    "lat": -37.8336013,
+    "lon": 145.1566512,
+    "precision": "street"
+  },
+  "Blackburn Road|GLEN WAVERLEY": {
+    "lat": -37.8902227,
+    "lon": 145.1450963,
+    "precision": "street"
+  },
+  "Blackburn Road|MOUNT WAVERLEY": {
+    "lat": -37.87345,
+    "lon": 145.1481488,
+    "precision": "street"
+  },
+  "Blackgate Road|CONNEWARRE": {
+    "lat": -38.2912788,
+    "lon": 144.3671069,
+    "precision": "street"
+  },
+  "Blackshaws Road|ALTONA NORTH": {
+    "lat": -37.8298986,
+    "lon": 144.8364063,
+    "precision": "street"
+  },
+  "Blackshaws Road|SPOTSWOOD": {
+    "lat": -37.8307331,
+    "lon": 144.8858865,
+    "precision": "suburb"
+  },
+  "Bloomfield Road|NILMA NORTH": {
+    "lat": -38.0997648,
+    "lon": 145.9709985,
+    "precision": "street"
+  },
+  "Bluff Road|HAMPTON": {
+    "lat": -37.9324862,
+    "lon": 145.0248269,
+    "precision": "street"
+  },
+  "Bluff Road|SANDRINGHAM": {
+    "lat": -37.9564395,
+    "lon": 145.0201366,
+    "precision": "street"
+  },
+  "Blyth Street|ALTONA": {
+    "lat": -37.868901,
+    "lon": 144.8357117,
+    "precision": "street"
+  },
+  "Boardwalk Boulevard|POINT COOK": {
+    "lat": -37.9081418,
+    "lon": 144.7264299,
+    "precision": "street"
+  },
+  "Bobs Street|WHITE HILLS": {
+    "lat": -36.7416431,
+    "lon": 144.2987275,
+    "precision": "street"
+  },
+  "Boes Road|TYABB": {
+    "lat": -38.2615771,
+    "lon": 145.1668763,
+    "precision": "street"
+  },
+  "Bogong High Plains Road|FALLS CREEK": {
+    "lat": -36.8831441,
+    "lon": 147.3103801,
+    "precision": "street"
+  },
+  "Bolton Street|ELTHAM": {
+    "lat": -37.7317101,
+    "lon": 145.134892,
+    "precision": "street"
+  },
+  "Boneo Road|ROSEBUD": {
+    "lat": -38.365418,
+    "lon": 144.8895919,
+    "precision": "street"
+  },
+  "Booran Road|GLEN HUNTLY": {
+    "lat": -37.8885249,
+    "lon": 145.0377308,
+    "precision": "street"
+  },
+  "Boort-Kerang Road|KERANG": {
+    "lat": -35.7388211,
+    "lon": 143.8918153,
+    "precision": "street"
+  },
+  "Booth Street|PRESTON": {
+    "lat": -37.7402165,
+    "lon": 144.9829465,
+    "precision": "street"
+  },
+  "Borung Highway|WOOROONOOK": {
+    "lat": -36.2669494,
+    "lon": 143.2746126,
+    "precision": "street"
+  },
+  "Borung Highway|DONALD": {
+    "lat": -36.356643,
+    "lon": 142.992034,
+    "precision": "street"
+  },
+  "Botha Avenue|RESERVOIR": {
+    "lat": -37.7011203,
+    "lon": 145.0032436,
+    "precision": "street"
+  },
+  "Boundary Road|NEWCOMB": {
+    "lat": -38.1703259,
+    "lon": 144.3842061,
+    "precision": "street"
+  },
+  "Boundary Road|MORDIALLOC": {
+    "lat": -38.0005111,
+    "lon": 145.105194,
+    "precision": "street"
+  },
+  "Boundary Road|PASCOE VALE": {
+    "lat": -37.7176702,
+    "lon": 144.947557,
+    "precision": "street"
+  },
+  "Boundary Street|KERANG": {
+    "lat": -35.7347823,
+    "lon": 143.9232191,
+    "precision": "street"
+  },
+  "Bourke Road|CLARINDA": {
+    "lat": -37.9416255,
+    "lon": 145.1061114,
+    "precision": "street"
+  },
+  "Bourke Street|KYNETON": {
+    "lat": -37.2553104,
+    "lon": 144.4658683,
+    "precision": "street"
+  },
+  "Bowden Street|CASTLEMAINE": {
+    "lat": -37.0662727,
+    "lon": 144.2099221,
+    "precision": "street"
+  },
+  "Bowen Street|CAMBERWELL": {
+    "lat": -37.8421979,
+    "lon": 145.0628415,
+    "precision": "street"
+  },
+  "Bowser Road|NORTH WANGARATTA": {
+    "lat": -36.3301781,
+    "lon": 146.3468295,
+    "precision": "street"
+  },
+  "Bradford Road|MOUNT MARTHA": {
+    "lat": -38.2979563,
+    "lon": 144.984565,
+    "precision": "street"
+  },
+  "Brady Road|DANDENONG NORTH": {
+    "lat": -37.95452,
+    "lon": 145.2165834,
+    "precision": "street"
+  },
+  "Braeswood Road|KINGS PARK": {
+    "lat": -37.7277071,
+    "lon": 144.773208,
+    "precision": "street"
+  },
+  "Brandy Creek Road|WARRAGUL": {
+    "lat": -38.1129169,
+    "lon": 145.9254499,
+    "precision": "street"
+  },
+  "Breadalbane Avenue|MERNDA": {
+    "lat": -37.6067437,
+    "lon": 145.088139,
+    "precision": "street"
+  },
+  "Bree Road|HAMILTON": {
+    "lat": -37.7288861,
+    "lon": 142.0283884,
+    "precision": "street"
+  },
+  "Bridge Inn Road|MERNDA": {
+    "lat": -37.5981689,
+    "lon": 145.0748343,
+    "precision": "street"
+  },
+  "Bridge Street|BENALLA": {
+    "lat": -36.5549379,
+    "lon": 145.9767336,
+    "precision": "street"
+  },
+  "Bridgewater Road|TREWALLA": {
+    "lat": -38.3206183,
+    "lon": 141.5200377,
+    "precision": "suburb"
+  },
+  "Bridgewater Road|PORTLAND": {
+    "lat": -38.3404849,
+    "lon": 141.5881836,
+    "precision": "street"
+  },
+  "Bridgewater Road|CRAIGIEBURN": {
+    "lat": -37.6068155,
+    "lon": 144.9285896,
+    "precision": "street"
+  },
+  "Bridgewater-Serpentine Road|BRIDGEWATER": {
+    "lat": -36.5084248,
+    "lon": 143.9520605,
+    "precision": "street"
+  },
+  "Bridle Road|MORWELL": {
+    "lat": -38.2303617,
+    "lon": 146.4321776,
+    "precision": "street"
+  },
+  "Bright Street|CALIFORNIA GULLY": {
+    "lat": -36.7250895,
+    "lon": 144.2710927,
+    "precision": "street"
+  },
+  "Broad Gully Road|DIAMOND CREEK": {
+    "lat": -37.6605416,
+    "lon": 145.1624443,
+    "precision": "street"
+  },
+  "Broadford-Flowerdale Road|STRATH CREEK": {
+    "lat": -37.237187,
+    "lon": 145.2196171,
+    "precision": "street"
+  },
+  "Broadford-Kilmore Road|BROADFORD": {
+    "lat": -37.2393072,
+    "lon": 144.9922366,
+    "precision": "street"
+  },
+  "Broadford-Kilmore Road|KILMORE": {
+    "lat": -37.2393072,
+    "lon": 144.9922366,
+    "precision": "street"
+  },
+  "Broadford-Wandong Road|BROADFORD": {
+    "lat": -37.2423508,
+    "lon": 145.0447302,
+    "precision": "street"
+  },
+  "Broadford-Wandong Road|KILMORE EAST": {
+    "lat": -37.2708052,
+    "lon": 145.0509516,
+    "precision": "street"
+  },
+  "Broadhurst Avenue|RESERVOIR": {
+    "lat": -37.7083834,
+    "lon": 145.0033144,
+    "precision": "street"
+  },
+  "Broadmeadows Road|TULLAMARINE": {
+    "lat": -37.7047971,
+    "lon": 144.8792085,
+    "precision": "street"
+  },
+  "Broadmeadows Road Deviation|WESTMEADOWS": {
+    "lat": -37.6811818,
+    "lon": 144.8845641,
+    "precision": "street"
+  },
+  "Broadway|RESERVOIR": {
+    "lat": -37.7172499,
+    "lon": 145.0124863,
+    "precision": "street"
+  },
+  "Broadway|DUNOLLY": {
+    "lat": -36.8592878,
+    "lon": 143.7314501,
+    "precision": "street"
+  },
+  "Brodie Street|WANGARATTA": {
+    "lat": -36.3497834,
+    "lon": 146.3027863,
+    "precision": "street"
+  },
+  "Broken River Drive|SHEPPARTON": {
+    "lat": -36.4054553,
+    "lon": 145.4000149,
+    "precision": "street"
+  },
+  "Bromley Road|ROBINVALE": {
+    "lat": -34.5824478,
+    "lon": 142.7699033,
+    "precision": "street"
+  },
+  "Brooke Street|TOWONG": {
+    "lat": -36.1237401,
+    "lon": 147.9915492,
+    "precision": "street"
+  },
+  "Brooklyn Road|BROOKFIELD": {
+    "lat": -37.7012118,
+    "lon": 144.5602969,
+    "precision": "street"
+  },
+  "Brossard Road|MICKLEHAM": {
+    "lat": -37.558274,
+    "lon": 144.8826104,
+    "precision": "street"
+  },
+  "Brown Road|PAKENHAM": {
+    "lat": -38.0434571,
+    "lon": 145.4386547,
+    "precision": "street"
+  },
+  "Browning Street|ORBOST": {
+    "lat": -37.7077356,
+    "lon": 148.4563787,
+    "precision": "street"
+  },
+  "Browning Street|KINGSBURY": {
+    "lat": -37.7184464,
+    "lon": 145.0341671,
+    "precision": "street"
+  },
+  "Browning Street|PORTLAND": {
+    "lat": -38.3284591,
+    "lon": 141.5925925,
+    "precision": "street"
+  },
+  "Browns Road|BOTANIC RIDGE": {
+    "lat": -38.1488765,
+    "lon": 145.2550631,
+    "precision": "street"
+  },
+  "Browns Road|NOBLE PARK": {
+    "lat": -37.9536953,
+    "lon": 145.1794424,
+    "precision": "street"
+  },
+  "Browns Road|NOBLE PARK NORTH": {
+    "lat": -37.9485652,
+    "lon": 145.1874477,
+    "precision": "street"
+  },
+  "Brunswick Road|BRUNSWICK": {
+    "lat": -37.7782891,
+    "lon": 144.9702689,
+    "precision": "street"
+  },
+  "Bruthen-Nowa Nowa Road|BRUTHEN": {
+    "lat": -37.7183192,
+    "lon": 147.8414068,
+    "precision": "street"
+  },
+  "Bruthen-Nowa Nowa Road|NOWA NOWA": {
+    "lat": -37.7228371,
+    "lon": 148.0847811,
+    "precision": "street"
+  },
+  "Buckley Street|KEILOR EAST": {
+    "lat": -37.7509077,
+    "lon": 144.8628682,
+    "precision": "street"
+  },
+  "Buckley Street|ESSENDON": {
+    "lat": -37.7577259,
+    "lon": 144.9238591,
+    "precision": "street"
+  },
+  "Buckley Street|ESSENDON WEST": {
+    "lat": -37.753397,
+    "lon": 144.8844523,
+    "precision": "street"
+  },
+  "Bulban Road|WERRIBEE": {
+    "lat": -37.9140996,
+    "lon": 144.6162688,
+    "precision": "street"
+  },
+  "Bulla Road|BULLA": {
+    "lat": -37.6405217,
+    "lon": 144.8139168,
+    "precision": "street"
+  },
+  "Bulla Road|STRATHMORE": {
+    "lat": -37.7386012,
+    "lon": 144.9066112,
+    "precision": "street"
+  },
+  "Bulleen Road|BALWYN NORTH": {
+    "lat": -37.7809557,
+    "lon": 145.0786204,
+    "precision": "street"
+  },
+  "Bulmans Road|MELTON WEST": {
+    "lat": -37.6735216,
+    "lon": 144.5518411,
+    "precision": "street"
+  },
+  "Bungower Road|SOMERVILLE": {
+    "lat": -38.2385191,
+    "lon": 145.1895993,
+    "precision": "street"
+  },
+  "Bungower Road|MOOROODUC": {
+    "lat": -38.2334569,
+    "lon": 145.1390399,
+    "precision": "street"
+  },
+  "Burke Road|GLEN IRIS": {
+    "lat": -37.8585362,
+    "lon": 145.0514859,
+    "precision": "street"
+  },
+  "Burke Road|MALVERN EAST": {
+    "lat": -37.8761295,
+    "lon": 145.0481478,
+    "precision": "street"
+  },
+  "Burns Street|MARYBOROUGH": {
+    "lat": -37.050975,
+    "lon": 143.739345,
+    "precision": "street"
+  },
+  "Burns Street|HAMILTON": {
+    "lat": -37.7390197,
+    "lon": 142.0145886,
+    "precision": "street"
+  },
+  "Burton Avenue|KYNETON": {
+    "lat": -37.2386281,
+    "lon": 144.4249102,
+    "precision": "street"
+  },
+  "Burwood Highway|KNOXFIELD": {
+    "lat": -37.8736627,
+    "lon": 145.2492842,
+    "precision": "street"
+  },
+  "Burwood Highway|WANTIRNA": {
+    "lat": -37.8601622,
+    "lon": 145.2086718,
+    "precision": "street"
+  },
+  "Butcher Street|ECHUCA": {
+    "lat": -36.133335,
+    "lon": 144.7331909,
+    "precision": "street"
+  },
+  "Butterworth Street|SWAN HILL": {
+    "lat": -35.3339494,
+    "lon": 143.5322642,
+    "precision": "street"
+  },
+  "Buxton Marysville Road|MARYSVILLE": {
+    "lat": -37.4731783,
+    "lon": 145.7430531,
+    "precision": "street"
+  },
+  "Cairns Road|HAMPTON PARK": {
+    "lat": -38.0396655,
+    "lon": 145.2598733,
+    "precision": "street"
+  },
+  "Calder Alternative Highway|LOCKWOOD": {
+    "lat": -36.8064562,
+    "lon": 144.1593956,
+    "precision": "street"
+  },
+  "CALDER ALTERNATIVE Highway|RAVENSWOOD": {
+    "lat": -36.8818374,
+    "lon": 144.2096668,
+    "precision": "street"
+  },
+  "Calder Alternative Highway|MARONG": {
+    "lat": -36.7425097,
+    "lon": 144.1298791,
+    "precision": "street"
+  },
+  "Calder Freeway|KEILOR EAST": {
+    "lat": -37.7266512,
+    "lon": 144.8556182,
+    "precision": "street"
+  },
+  "Calder Freeway|KEILOR PARK": {
+    "lat": -37.7261442,
+    "lon": 144.8531285,
+    "precision": "street"
+  },
+  "Calder Freeway|KEILOR": {
+    "lat": -37.704613,
+    "lon": 144.8153293,
+    "precision": "street"
+  },
+  "Calder Freeway|ELPHINSTONE": {
+    "lat": -37.0818539,
+    "lon": 144.3188366,
+    "precision": "street"
+  },
+  "Calder Freeway|RAVENSWOOD SOUTH": {
+    "lat": -36.9565128,
+    "lon": 144.236453,
+    "precision": "street"
+  },
+  "Calder Freeway|CARLSRUHE": {
+    "lat": -37.3015274,
+    "lon": 144.5107517,
+    "precision": "street"
+  },
+  "Calder Freeway|FARADAY": {
+    "lat": -37.0281725,
+    "lon": 144.2727966,
+    "precision": "street"
+  },
+  "Calder Freeway|GISBORNE SOUTH": {
+    "lat": -37.5337874,
+    "lon": 144.6363479,
+    "precision": "street"
+  },
+  "Calder Freeway|KYNETON": {
+    "lat": -37.2476076,
+    "lon": 144.4718948,
+    "precision": "street"
+  },
+  "Calder Freeway|MACEDON": {
+    "lat": -37.3829117,
+    "lon": 144.5500121,
+    "precision": "street"
+  },
+  "Calder Freeway|MALMSBURY": {
+    "lat": -37.156817,
+    "lon": 144.3993421,
+    "precision": "street"
+  },
+  "Calder Freeway|TARADALE": {
+    "lat": -37.1418636,
+    "lon": 144.3899182,
+    "precision": "street"
+  },
+  "Calder Freeway|KEILOR NORTH": {
+    "lat": -37.6746263,
+    "lon": 144.7688653,
+    "precision": "street"
+  },
+  "Calder Highway|SEA LAKE": {
+    "lat": -35.4561116,
+    "lon": 142.8294637,
+    "precision": "street"
+  },
+  "Calder Highway|OUYEN": {
+    "lat": -35.0718467,
+    "lon": 142.3190021,
+    "precision": "street"
+  },
+  "Calder Highway|RED CLIFFS": {
+    "lat": -34.3518216,
+    "lon": 142.186574,
+    "precision": "street"
+  },
+  "Calder Highway|YATPOOL": {
+    "lat": -34.3581983,
+    "lon": 142.2144347,
+    "precision": "suburb"
+  },
+  "Calder Highway|BERRIWILLOCK": {
+    "lat": -35.6375242,
+    "lon": 142.998309,
+    "precision": "street"
+  },
+  "Calder Highway|CHARLTON": {
+    "lat": -36.2916292,
+    "lon": 143.423315,
+    "precision": "street"
+  },
+  "Calder Highway|BIRDWOODTON": {
+    "lat": -34.1997342,
+    "lon": 142.0864739,
+    "precision": "street"
+  },
+  "Calder Highway|HATTAH": {
+    "lat": -34.8991833,
+    "lon": 142.3027233,
+    "precision": "street"
+  },
+  "Calder Highway|RAVENSWOOD SOUTH": {
+    "lat": -36.9421652,
+    "lon": 144.2300413,
+    "precision": "street"
+  },
+  "Calder Highway|MAIDEN GULLY": {
+    "lat": -36.7582182,
+    "lon": 144.2243789,
+    "precision": "street"
+  },
+  "Calder Highway|RAVENSWOOD": {
+    "lat": -36.8620805,
+    "lon": 144.2219536,
+    "precision": "street"
+  },
+  "Calder Highway|NULLAWIL": {
+    "lat": -35.8223346,
+    "lon": 143.1488218,
+    "precision": "street"
+  },
+  "Calder Highway|CULGOA": {
+    "lat": -35.7172658,
+    "lon": 143.0995662,
+    "precision": "street"
+  },
+  "Calder Highway|DUMOSA": {
+    "lat": -35.9361308,
+    "lon": 143.2268388,
+    "precision": "street"
+  },
+  "Calder Highway|NANDALY": {
+    "lat": -35.2307612,
+    "lon": 142.6917665,
+    "precision": "street"
+  },
+  "Calder Highway|NINDA": {
+    "lat": -35.4561116,
+    "lon": 142.8294637,
+    "precision": "street"
+  },
+  "Calder Highway|TEDDYWADDY": {
+    "lat": -36.2173856,
+    "lon": 143.3642862,
+    "precision": "street"
+  },
+  "Calder Highway|WARNE": {
+    "lat": -35.786083,
+    "lon": 143.1280596,
+    "precision": "street"
+  },
+  "Calder Highway|WOOSANG": {
+    "lat": -36.2916292,
+    "lon": 143.423315,
+    "precision": "street"
+  },
+  "Calder Highway|WYCHEPROOF SOUTH": {
+    "lat": -36.1322565,
+    "lon": 143.234098,
+    "precision": "street"
+  },
+  "Calder Highway|CABARITA": {
+    "lat": -34.1997342,
+    "lon": 142.0864739,
+    "precision": "street"
+  },
+  "Calder Highway|MERBEIN": {
+    "lat": -34.1759196,
+    "lon": 142.0585623,
+    "precision": "street"
+  },
+  "Calder Highway|MERBEIN WEST": {
+    "lat": -34.1670378,
+    "lon": 142.0062733,
+    "precision": "suburb"
+  },
+  "Calder Highway|MITTYACK": {
+    "lat": -35.2307612,
+    "lon": 142.6917665,
+    "precision": "street"
+  },
+  "Calder Highway|YELTA": {
+    "lat": -34.1219521,
+    "lon": 141.9912939,
+    "precision": "street"
+  },
+  "Calder Highway|BRIDGEWATER ON LODDON": {
+    "lat": -36.59898,
+    "lon": 143.9365591,
+    "precision": "street"
+  },
+  "Calder Highway|GLENALBYN": {
+    "lat": -36.4851381,
+    "lon": 143.7124677,
+    "precision": "street"
+  },
+  "Calder Highway|KURTING": {
+    "lat": -36.5387782,
+    "lon": 143.8102803,
+    "precision": "street"
+  },
+  "Calder Highway|LEICHARDT": {
+    "lat": -36.7087582,
+    "lon": 144.1029081,
+    "precision": "street"
+  },
+  "Calder Highway|MARONG": {
+    "lat": -36.7359385,
+    "lon": 144.1338961,
+    "precision": "street"
+  },
+  "Calder Highway|KANGAROO FLAT": {
+    "lat": -36.8181644,
+    "lon": 144.2383844,
+    "precision": "street"
+  },
+  "Calder Park Drive|SYDENHAM": {
+    "lat": -37.6981218,
+    "lon": 144.7556135,
+    "precision": "street"
+  },
+  "Calder Park Drive|TAYLORS HILL": {
+    "lat": -37.7219908,
+    "lon": 144.7506384,
+    "precision": "street"
+  },
+  "Caldwells Road|EAGLEHAWK": {
+    "lat": -36.7172572,
+    "lon": 144.2466007,
+    "precision": "street"
+  },
+  "Caledonia Street|ST ANDREWS": {
+    "lat": -37.5996312,
+    "lon": 145.2753155,
+    "precision": "street"
+  },
+  "Callaghan Street|EPSOM": {
+    "lat": -36.7140686,
+    "lon": 144.2899151,
+    "precision": "street"
+  },
+  "Calvert Street|BAIRNSDALE": {
+    "lat": -37.8329458,
+    "lon": 147.5995897,
+    "precision": "street"
+  },
+  "Cambden Park Parade|FERNTREE GULLY": {
+    "lat": -37.8822644,
+    "lon": 145.2607104,
+    "precision": "street"
+  },
+  "Camelot Drive|GLEN WAVERLEY": {
+    "lat": -37.866971,
+    "lon": 145.1810335,
+    "precision": "street"
+  },
+  "Cameron Parade|BUNDOORA": {
+    "lat": -37.6983534,
+    "lon": 145.0636053,
+    "precision": "street"
+  },
+  "Camp Road|BROADMEADOWS": {
+    "lat": -37.6854143,
+    "lon": 144.9210183,
+    "precision": "street"
+  },
+  "Campaspe Esplanade|ECHUCA": {
+    "lat": -36.1335949,
+    "lon": 144.7375232,
+    "precision": "street"
+  },
+  "Campbell Street|ARARAT": {
+    "lat": -37.2774292,
+    "lon": 142.9393657,
+    "precision": "street"
+  },
+  "Campbell Street|SWAN HILL": {
+    "lat": -35.3445785,
+    "lon": 143.5610392,
+    "precision": "street"
+  },
+  "Camperdown-Cobden Road|CAMPERDOWN": {
+    "lat": -38.2804339,
+    "lon": 143.1213428,
+    "precision": "street"
+  },
+  "Canterbury Road|MIDDLE PARK": {
+    "lat": -37.8493287,
+    "lon": 144.9648443,
+    "precision": "street"
+  },
+  "Canterbury Road|BAYSWATER NORTH": {
+    "lat": -37.8321634,
+    "lon": 145.2693182,
+    "precision": "street"
+  },
+  "Canterbury Road|VERMONT": {
+    "lat": -37.8362101,
+    "lon": 145.1941805,
+    "precision": "street"
+  },
+  "Canterbury Road|MONTROSE": {
+    "lat": -37.8152692,
+    "lon": 145.3271867,
+    "precision": "street"
+  },
+  "Canterbury Road|BLACKBURN SOUTH": {
+    "lat": -37.8316045,
+    "lon": 145.1458271,
+    "precision": "street"
+  },
+  "Canterbury Road|BOX HILL": {
+    "lat": -37.8300212,
+    "lon": 145.1329154,
+    "precision": "street"
+  },
+  "Cape Nelson Road|PORTLAND": {
+    "lat": -38.3656875,
+    "lon": 141.5995129,
+    "precision": "street"
+  },
+  "Cape Otway Road|BIRREGURRA": {
+    "lat": -38.3466565,
+    "lon": 143.8052381,
+    "precision": "street"
+  },
+  "Carnarvon Road|STRATHMORE": {
+    "lat": -37.7413712,
+    "lon": 144.9103354,
+    "precision": "street"
+  },
+  "Carngham Road|BUNKERS HILL": {
+    "lat": -37.5648984,
+    "lon": 143.7677272,
+    "precision": "street"
+  },
+  "Carngham Road|HADDON": {
+    "lat": -37.558113,
+    "lon": 143.6963881,
+    "precision": "street"
+  },
+  "Carpenter Street|QUARRY HILL": {
+    "lat": -36.7725884,
+    "lon": 144.2856202,
+    "precision": "street"
+  },
+  "Carpenter Street|SPRING GULLY": {
+    "lat": -36.7882613,
+    "lon": 144.2833733,
+    "precision": "street"
+  },
+  "Carrick Drive|GLADSTONE PARK": {
+    "lat": -37.6976106,
+    "lon": 144.8907936,
+    "precision": "street"
+  },
+  "Carroll Road|OAKLEIGH SOUTH": {
+    "lat": -37.9290684,
+    "lon": 145.0944741,
+    "precision": "street"
+  },
+  "Castlemaine-Maldon Road|MUCKLEFORD": {
+    "lat": -37.0570542,
+    "lon": 144.1648361,
+    "precision": "street"
+  },
+  "Centenary  Avenue|MELTON": {
+    "lat": -37.6761062,
+    "lon": 144.5959203,
+    "precision": "street"
+  },
+  "Centenary Avenue|MELTON WEST": {
+    "lat": -37.6729629,
+    "lon": 144.5700433,
+    "precision": "street"
+  },
+  "Centenary Avenue|MELTON": {
+    "lat": -37.6734331,
+    "lon": 144.5738571,
+    "precision": "street"
+  },
+  "Centenary Drive|MILL PARK": {
+    "lat": -37.6584769,
+    "lon": 145.0687932,
+    "precision": "street"
+  },
+  "Central Avenue|ALTONA MEADOWS": {
+    "lat": -37.8702266,
+    "lon": 144.7606183,
+    "precision": "street"
+  },
+  "Central Park Road|MALVERN EAST": {
+    "lat": -37.8680139,
+    "lon": 145.0417388,
+    "precision": "street"
+  },
+  "Central Road|NUNAWADING": {
+    "lat": -37.824712,
+    "lon": 145.1670117,
+    "precision": "street"
+  },
+  "Centre Dandenong Road|MOORABBIN AIRPORT": {
+    "lat": -37.9723372,
+    "lon": 145.111534,
+    "precision": "street"
+  },
+  "Centre Dandenong Road|CHELTENHAM": {
+    "lat": -37.9676564,
+    "lon": 145.0738162,
+    "precision": "street"
+  },
+  "Centre Road|BENTLEIGH EAST": {
+    "lat": -37.9239369,
+    "lon": 145.0819598,
+    "precision": "street"
+  },
+  "Centre Road|OAKLEIGH SOUTH": {
+    "lat": -37.9245163,
+    "lon": 145.0864856,
+    "precision": "street"
+  },
+  "Centre Road|LANGWARRIN": {
+    "lat": -38.1582568,
+    "lon": 145.2084666,
+    "precision": "street"
+  },
+  "Centre Road|BENTLEIGH": {
+    "lat": -37.9183797,
+    "lon": 145.0382278,
+    "precision": "street"
+  },
+  "Chadstone Road|MALVERN EAST": {
+    "lat": -37.8864159,
+    "lon": 145.0783815,
+    "precision": "street"
+  },
+  "Champion Road|NEWPORT": {
+    "lat": -37.8483011,
+    "lon": 144.873409,
+    "precision": "street"
+  },
+  "Champions Parade|WOLLERT": {
+    "lat": -37.6225713,
+    "lon": 145.0247593,
+    "precision": "street"
+  },
+  "Chandler Road|KEYSBOROUGH": {
+    "lat": -38.0008648,
+    "lon": 145.1806394,
+    "precision": "street"
+  },
+  "Channel Road|SHEPPARTON": {
+    "lat": -36.4070559,
+    "lon": 145.4180872,
+    "precision": "street"
+  },
+  "Chapel Road|KEYSBOROUGH": {
+    "lat": -37.9966871,
+    "lon": 145.1624161,
+    "precision": "street"
+  },
+  "Chapel Street|SOUTH YARRA": {
+    "lat": -37.8404521,
+    "lon": 144.995426,
+    "precision": "street"
+  },
+  "Chapple Street|WODONGA": {
+    "lat": -36.1239151,
+    "lon": 146.9034899,
+    "precision": "street"
+  },
+  "Charlton-St Arnaud Road|ST ARNAUD": {
+    "lat": -36.5451509,
+    "lon": 143.2988989,
+    "precision": "street"
+  },
+  "Chauncey Street|LANCEFIELD": {
+    "lat": -37.27915,
+    "lon": 144.7242053,
+    "precision": "street"
+  },
+  "Cheddar Road West|RESERVOIR": {
+    "lat": -37.7025213,
+    "lon": 145.0176664,
+    "precision": "street"
+  },
+  "Chenery Street|MANSFIELD": {
+    "lat": -37.0537237,
+    "lon": 146.0925911,
+    "precision": "street"
+  },
+  "Cherry Tree Road|PANTON HILL": {
+    "lat": -37.6425403,
+    "lon": 145.2211446,
+    "precision": "street"
+  },
+  "Chesterville Road|CHELTENHAM NORTH": {
+    "lat": -37.9589802,
+    "lon": 145.0674022,
+    "precision": "suburb"
+  },
+  "Chifley Drive|PRESTON": {
+    "lat": -37.7432968,
+    "lon": 145.0305721,
+    "precision": "street"
+  },
+  "Childers Street|PORTLAND": {
+    "lat": -38.3699858,
+    "lon": 141.6090662,
+    "precision": "street"
+  },
+  "Childs Road|LALOR": {
+    "lat": -37.6608441,
+    "lon": 145.0302287,
+    "precision": "street"
+  },
+  "Childs Road|MILL PARK": {
+    "lat": -37.6623095,
+    "lon": 145.0449161,
+    "precision": "street"
+  },
+  "Chisholm Street|BALLARAT": {
+    "lat": -37.5491256,
+    "lon": 143.8756619,
+    "precision": "street"
+  },
+  "Christensen Lane|WANGARATTA": {
+    "lat": -36.3415584,
+    "lon": 146.2869015,
+    "precision": "street"
+  },
+  "Christies Road|LEOPOLD": {
+    "lat": -38.1778931,
+    "lon": 144.4762315,
+    "precision": "street"
+  },
+  "Chum Creek Road|HEALESVILLE": {
+    "lat": -37.6453843,
+    "lon": 145.497963,
+    "precision": "street"
+  },
+  "Chum Street|GOLDEN SQUARE": {
+    "lat": -36.762462,
+    "lon": 144.2578323,
+    "precision": "street"
+  },
+  "Church Road|NYAH": {
+    "lat": -35.1747555,
+    "lon": 143.3847838,
+    "precision": "street"
+  },
+  "Church Street|GROVEDALE": {
+    "lat": -38.1962823,
+    "lon": 144.3291134,
+    "precision": "street"
+  },
+  "Church Street|RICHMOND": {
+    "lat": -37.8341639,
+    "lon": 144.9966058,
+    "precision": "street"
+  },
+  "Church Street|KANGAROO FLAT": {
+    "lat": -36.802167,
+    "lon": 144.2440995,
+    "precision": "street"
+  },
+  "Churchill-Traralgon Road|TRARALGON": {
+    "lat": -38.2098703,
+    "lon": 146.5202789,
+    "precision": "street"
+  },
+  "Cimberwood Drive|CRAIGIEBURN": {
+    "lat": -37.5953774,
+    "lon": 144.9262104,
+    "precision": "street"
+  },
+  "Civic Parade|ALTONA": {
+    "lat": -37.8644226,
+    "lon": 144.830839,
+    "precision": "street"
+  },
+  "Claremont Avenue|MALVERN": {
+    "lat": -37.8669947,
+    "lon": 145.0386319,
+    "precision": "street"
+  },
+  "Clarendon Street|EAST MELBOURNE": {
+    "lat": -37.8094564,
+    "lon": 144.983631,
+    "precision": "street"
+  },
+  "Claret Ash Boulevard|HARKNESS": {
+    "lat": -37.6658759,
+    "lon": 144.5410998,
+    "precision": "street"
+  },
+  "Clarinda Road|CLARINDA": {
+    "lat": -37.9442662,
+    "lon": 145.097235,
+    "precision": "street"
+  },
+  "Clarke Road|SPRINGVALE SOUTH": {
+    "lat": -37.9695581,
+    "lon": 145.1415296,
+    "precision": "street"
+  },
+  "Clarkes Road|BROOKFIELD": {
+    "lat": -37.7009472,
+    "lon": 144.5464398,
+    "precision": "street"
+  },
+  "Clayton Road|CLAYTON": {
+    "lat": -37.9096849,
+    "lon": 145.122616,
+    "precision": "street"
+  },
+  "Clifton Avenue|STAWELL": {
+    "lat": -37.0546473,
+    "lon": 142.7711359,
+    "precision": "street"
+  },
+  "Clifton Springs Road|CLIFTON SPRINGS": {
+    "lat": -38.1677624,
+    "lon": 144.5717988,
+    "precision": "street"
+  },
+  "Clyde Road|BERWICK": {
+    "lat": -38.0655446,
+    "lon": 145.3372939,
+    "precision": "street"
+  },
+  "Clyde-Five Ways Road|CLYDE": {
+    "lat": -38.1456955,
+    "lon": 145.3217046,
+    "precision": "street"
+  },
+  "Coates Road|LAKES ENTRANCE": {
+    "lat": -37.8741926,
+    "lon": 148.0056336,
+    "precision": "street"
+  },
+  "Coburns Road|KURUNJANG": {
+    "lat": -37.6554469,
+    "lon": 144.5737614,
+    "precision": "street"
+  },
+  "Coburns Road|MELTON": {
+    "lat": -37.6834565,
+    "lon": 144.5684537,
+    "precision": "street"
+  },
+  "Coburns Road|MELTON SOUTH": {
+    "lat": -37.7032319,
+    "lon": 144.564679,
+    "precision": "street"
+  },
+  "Coburns Road|TOOLERN VALE": {
+    "lat": -37.6347177,
+    "lon": 144.5733739,
+    "precision": "street"
+  },
+  "Cohuna Island Road|COHUNA": {
+    "lat": -35.8094595,
+    "lon": 144.2229754,
+    "precision": "street"
+  },
+  "Cohuna-Koondrook Road|KOONDROOK": {
+    "lat": -35.6689258,
+    "lon": 144.1148401,
+    "precision": "street"
+  },
+  "Cohuna-Leitchville Road|LEITCHVILLE": {
+    "lat": -35.804716,
+    "lon": 144.2279172,
+    "precision": "street"
+  },
+  "Colac Forrest Road|YEODENE": {
+    "lat": -38.4034829,
+    "lon": 143.7074674,
+    "precision": "suburb"
+  },
+  "Colac-Ballarat  Road|WEERING": {
+    "lat": -38.0975627,
+    "lon": 143.703903,
+    "precision": "suburb"
+  },
+  "Colac-Ballarat Road|CAMBRIAN HILL": {
+    "lat": -37.6286362,
+    "lon": 143.8305357,
+    "precision": "street"
+  },
+  "Colac-Ballarat Road|BEEAC": {
+    "lat": -38.1320587,
+    "lon": 143.6287425,
+    "precision": "street"
+  },
+  "Colac-Ballarat Road|CORINDHAP": {
+    "lat": -37.8886049,
+    "lon": 143.722846,
+    "precision": "street"
+  },
+  "Colac-Ballarat Road|NAPOLEONS": {
+    "lat": -37.6545208,
+    "lon": 143.8254459,
+    "precision": "street"
+  },
+  "Colac-Lavers Hill Road|BARONGAROOK": {
+    "lat": -38.4456688,
+    "lon": 143.5694318,
+    "precision": "street"
+  },
+  "Coleraine-Balmoral Road|BALMORAL": {
+    "lat": -37.2505462,
+    "lon": 141.8338315,
+    "precision": "street"
+  },
+  "Commercial Road|MORWELL": {
+    "lat": -38.2390586,
+    "lon": 146.4038462,
+    "precision": "street"
+  },
+  "Condon Street|KENNINGTON": {
+    "lat": -36.7704262,
+    "lon": 144.2991252,
+    "precision": "street"
+  },
+  "Coolart Road|BITTERN": {
+    "lat": -38.3530049,
+    "lon": 145.1457056,
+    "precision": "street"
+  },
+  "Coombes Road|TORQUAY": {
+    "lat": -38.3138984,
+    "lon": 144.3095974,
+    "precision": "street"
+  },
+  "Copelands Road|WARRAGUL": {
+    "lat": -38.129697,
+    "lon": 145.9654815,
+    "precision": "street"
+  },
+  "Copernicus Way|KEILOR DOWNS": {
+    "lat": -37.7238895,
+    "lon": 144.8060142,
+    "precision": "street"
+  },
+  "Coppards Road|MOOLAP": {
+    "lat": -38.1661398,
+    "lon": 144.4039189,
+    "precision": "street"
+  },
+  "Coppards Road|NEWCOMB": {
+    "lat": -38.1725805,
+    "lon": 144.402661,
+    "precision": "street"
+  },
+  "Copperfield Drive|DELAHEY": {
+    "lat": -37.7222323,
+    "lon": 144.7685117,
+    "precision": "street"
+  },
+  "Cornwall Road|SUNSHINE": {
+    "lat": -37.7873711,
+    "lon": 144.8410997,
+    "precision": "street"
+  },
+  "Coronation Avenue|SWAN HILL": {
+    "lat": -35.3524493,
+    "lon": 143.5534434,
+    "precision": "street"
+  },
+  "Corrigan Road|KEYSBOROUGH": {
+    "lat": -37.9924157,
+    "lon": 145.162998,
+    "precision": "street"
+  },
+  "Corrigan Road|NOBLE PARK": {
+    "lat": -37.9478589,
+    "lon": 145.1722727,
+    "precision": "street"
+  },
+  "Coulstock Street|WARRNAMBOOL": {
+    "lat": -38.3817735,
+    "lon": 142.4954873,
+    "precision": "street"
+  },
+  "Cowra Avenue|MILDURA": {
+    "lat": -34.2059195,
+    "lon": 142.1769952,
+    "precision": "street"
+  },
+  "Cox Road|NORLANE": {
+    "lat": -38.083851,
+    "lon": 144.3559373,
+    "precision": "street"
+  },
+  "Craig Road|CRANBOURNE SOUTH": {
+    "lat": -38.1536008,
+    "lon": 145.29123,
+    "precision": "street"
+  },
+  "Craig Road|DEVON MEADOWS": {
+    "lat": -38.1768941,
+    "lon": 145.2866751,
+    "precision": "street"
+  },
+  "Craigie Road|MOUNT MARTHA": {
+    "lat": -38.2540106,
+    "lon": 145.0263424,
+    "precision": "street"
+  },
+  "Craigieburn Road|WOLLERT": {
+    "lat": -37.6027376,
+    "lon": 144.9719889,
+    "precision": "street"
+  },
+  "Craigieburn Road|CRAIGIEBURN": {
+    "lat": -37.5914159,
+    "lon": 144.8925215,
+    "precision": "street"
+  },
+  "Cramer Street|WARRNAMBOOL": {
+    "lat": -38.3752301,
+    "lon": 142.5006327,
+    "precision": "street"
+  },
+  "Cranbourne-Frankston Road|LANGWARRIN": {
+    "lat": -38.1557185,
+    "lon": 145.1747371,
+    "precision": "street"
+  },
+  "CRANE Street|JACKASS FLAT": {
+    "lat": -36.7248373,
+    "lon": 144.2880963,
+    "precision": "street"
+  },
+  "Cravens Road|MERNDA": {
+    "lat": -37.6060763,
+    "lon": 145.0808273,
+    "precision": "street"
+  },
+  "Creswick Road|BALLARAT": {
+    "lat": -37.5538164,
+    "lon": 143.85298,
+    "precision": "street"
+  },
+  "Creswick-Newstead Road|CAMPBELLTOWN": {
+    "lat": -37.1988998,
+    "lon": 144.00575,
+    "precision": "street"
+  },
+  "Creswick-Newstead Road|NEWSTEAD": {
+    "lat": -37.1381253,
+    "lon": 144.041937,
+    "precision": "street"
+  },
+  "Crook Street|KENNINGTON": {
+    "lat": -36.7699933,
+    "lon": 144.3100691,
+    "precision": "street"
+  },
+  "Crusoe Road|KANGAROO FLAT": {
+    "lat": -36.8144247,
+    "lon": 144.2317256,
+    "precision": "street"
+  },
+  "Cumberland Road|PASCOE VALE": {
+    "lat": -37.719932,
+    "lon": 144.9403601,
+    "precision": "street"
+  },
+  "Cureton Avenue|MILDURA": {
+    "lat": -34.1618001,
+    "lon": 142.1614949,
+    "precision": "street"
+  },
+  "Curlewis Road|CURLEWIS": {
+    "lat": -38.1883127,
+    "lon": 144.5115481,
+    "precision": "street"
+  },
+  "Curlewis Street|SWAN HILL": {
+    "lat": -35.3342437,
+    "lon": 143.5594532,
+    "precision": "street"
+  },
+  "Curtin Street|FLORA HILL": {
+    "lat": -36.7761488,
+    "lon": 144.2951036,
+    "precision": "street"
+  },
+  "Cuthbert Avenue|TRUGANINA": {
+    "lat": -37.8575334,
+    "lon": 144.7244472,
+    "precision": "street"
+  },
+  "Cuthberts Road|LUCAS": {
+    "lat": -37.5520426,
+    "lon": 143.7851295,
+    "precision": "street"
+  },
+  "Da Vinci Drive|SHEPPARTON": {
+    "lat": -36.4059183,
+    "lon": 145.4177456,
+    "precision": "street"
+  },
+  "Dalmore Road|KOO WEE RUP": {
+    "lat": -38.1990553,
+    "lon": 145.492854,
+    "precision": "suburb"
+  },
+  "Dalrymple Road|SUNBURY": {
+    "lat": -37.5332404,
+    "lon": 144.6704361,
+    "precision": "street"
+  },
+  "Dalton Road|LALOR": {
+    "lat": -37.6633744,
+    "lon": 145.0320124,
+    "precision": "street"
+  },
+  "Dandenong Bypass|DANDENONG SOUTH": {
+    "lat": -38.0047943,
+    "lon": 145.2211685,
+    "precision": "street"
+  },
+  "Dandenong Road|PRAHRAN": {
+    "lat": -37.8593861,
+    "lon": 145.0052743,
+    "precision": "street"
+  },
+  "Dandenong Road|WINDSOR": {
+    "lat": -37.8558814,
+    "lon": 144.9858145,
+    "precision": "street"
+  },
+  "Dandenong Road East|FRANKSTON": {
+    "lat": -38.13166,
+    "lon": 145.1312626,
+    "precision": "street"
+  },
+  "Dandenong-Hastings Road|CRANBOURNE": {
+    "lat": -38.1275484,
+    "lon": 145.229601,
+    "precision": "street"
+  },
+  "Danks Street|MIDDLE PARK": {
+    "lat": -37.8511942,
+    "lon": 144.9590481,
+    "precision": "street"
+  },
+  "Darebin Road|THORNBURY": {
+    "lat": -37.7636032,
+    "lon": 145.0030219,
+    "precision": "street"
+  },
+  "Dargo road|LINDENOW": {
+    "lat": -37.7894424,
+    "lon": 147.3852264,
+    "precision": "street"
+  },
+  "Darian Road|TORQUAY": {
+    "lat": -38.322591,
+    "lon": 144.3212268,
+    "precision": "street"
+  },
+  "Darling Road|MALVERN EAST": {
+    "lat": -37.8734319,
+    "lon": 145.0600331,
+    "precision": "street"
+  },
+  "Darlington Road|STAWELL": {
+    "lat": -37.0527228,
+    "lon": 142.7806748,
+    "precision": "street"
+  },
+  "Dartmoor-Hamilton Road|YULECART": {
+    "lat": -37.763153,
+    "lon": 141.8951262,
+    "precision": "street"
+  },
+  "Dartmoor-Hamilton Road|HAMILTON": {
+    "lat": -37.7446852,
+    "lon": 141.9861136,
+    "precision": "street"
+  },
+  "Davisson Street|EPPING": {
+    "lat": -37.649585,
+    "lon": 145.0298777,
+    "precision": "street"
+  },
+  "Daylesford-Malmsbury Road|DENVER": {
+    "lat": -37.2891209,
+    "lon": 144.268901,
+    "precision": "street"
+  },
+  "Dead Horse Lane|MANSFIELD": {
+    "lat": -37.0439489,
+    "lon": 146.0945044,
+    "precision": "street"
+  },
+  "Deakin Avenue|MILDURA": {
+    "lat": -34.1986264,
+    "lon": 142.1464734,
+    "precision": "street"
+  },
+  "Deep Creek Road|MITCHAM": {
+    "lat": -37.8165178,
+    "lon": 145.2077553,
+    "precision": "street"
+  },
+  "Delatite Road|SEYMOUR": {
+    "lat": -37.026919,
+    "lon": 145.1571843,
+    "precision": "street"
+  },
+  "Delta Road|GREENSBOROUGH": {
+    "lat": -37.7142675,
+    "lon": 145.0933722,
+    "precision": "street"
+  },
+  "Dendy Street|BRIGHTON": {
+    "lat": -37.9207865,
+    "lon": 145.0052739,
+    "precision": "street"
+  },
+  "Dendy Street|BRIGHTON EAST": {
+    "lat": -37.9219501,
+    "lon": 145.0152799,
+    "precision": "street"
+  },
+  "Derby Street|PASCOE VALE": {
+    "lat": -37.7210661,
+    "lon": 144.9475881,
+    "precision": "street"
+  },
+  "Derrimut Road|HOPPERS CROSSING": {
+    "lat": -37.8692232,
+    "lon": 144.6843527,
+    "precision": "street"
+  },
+  "Devon Road|PASCOE VALE": {
+    "lat": -37.7219121,
+    "lon": 144.9271739,
+    "precision": "street"
+  },
+  "Devonshire Road|SUNSHINE": {
+    "lat": -37.7851506,
+    "lon": 144.8346046,
+    "precision": "street"
+  },
+  "Diamond Creek Road|GREENSBOROUGH": {
+    "lat": -37.6899727,
+    "lon": 145.1137867,
+    "precision": "street"
+  },
+  "Diggers Rest Coimadai Road|TOOLERN VALE": {
+    "lat": -37.6132411,
+    "lon": 144.5593918,
+    "precision": "street"
+  },
+  "Diggers Rest-Coimadai Road|COIMADAI": {
+    "lat": -37.6180167,
+    "lon": 144.5066912,
+    "precision": "street"
+  },
+  "Diggers Rest-Coimadai Road|DIGGERS REST": {
+    "lat": -37.6243596,
+    "lon": 144.6591482,
+    "precision": "street"
+  },
+  "Diggers Rest-Coimadai Road|TOOLERN VALE": {
+    "lat": -37.6088314,
+    "lon": 144.590167,
+    "precision": "street"
+  },
+  "Dinah Parade|KEILOR EAST": {
+    "lat": -37.7443278,
+    "lon": 144.8677328,
+    "precision": "street"
+  },
+  "Dingley Bypass|HEATHERTON": {
+    "lat": -37.9592533,
+    "lon": 145.111341,
+    "precision": "street"
+  },
+  "Doctors Gully Road|DOREEN": {
+    "lat": -37.6119233,
+    "lon": 145.1662178,
+    "precision": "street"
+  },
+  "Don Road|BADGER CREEK": {
+    "lat": -37.6805256,
+    "lon": 145.5442531,
+    "precision": "street"
+  },
+  "Donald Cameron Drive|ROXBURGH PARK": {
+    "lat": -37.6314914,
+    "lon": 144.9246011,
+    "precision": "street"
+  },
+  "Donald-Swan Hill Road|KALPIENUNG": {
+    "lat": -35.8797907,
+    "lon": 143.2974051,
+    "precision": "street"
+  },
+  "Donald-Swan Hill Road|LALBERT": {
+    "lat": -35.675779,
+    "lon": 143.3749748,
+    "precision": "street"
+  },
+  "Donald-Swan Hill Road|SWAN HILL": {
+    "lat": -35.3871462,
+    "lon": 143.5650212,
+    "precision": "street"
+  },
+  "Donnybrook Road|MICKLEHAM": {
+    "lat": -37.5379187,
+    "lon": 144.9229014,
+    "precision": "street"
+  },
+  "Donnybrook Road|YAN YEAN": {
+    "lat": -37.5578064,
+    "lon": 145.1093798,
+    "precision": "street"
+  },
+  "Dorset Road|CROYDON": {
+    "lat": -37.7788246,
+    "lon": 145.2939649,
+    "precision": "street"
+  },
+  "Douglas Parade|NEWPORT": {
+    "lat": -37.8502241,
+    "lon": 144.8941418,
+    "precision": "street"
+  },
+  "Doveton Street North|INVERMAY PARK": {
+    "lat": -37.5328858,
+    "lon": 143.8604383,
+    "precision": "street"
+  },
+  "Doveton Street North|BALLARAT NORTH": {
+    "lat": -37.5381131,
+    "lon": 143.8594418,
+    "precision": "street"
+  },
+  "Downes Road|CASTLEMAINE": {
+    "lat": -37.0556748,
+    "lon": 144.2153409,
+    "precision": "street"
+  },
+  "Drage Road|WODONGA": {
+    "lat": -36.1152787,
+    "lon": 146.840494,
+    "precision": "street"
+  },
+  "Driscolls Road|KEALBA": {
+    "lat": -37.7317003,
+    "lon": 144.8229913,
+    "precision": "street"
+  },
+  "Dromana Parade|SAFETY BEACH": {
+    "lat": -38.3283109,
+    "lon": 144.9772778,
+    "precision": "street"
+  },
+  "Drummond Street South|BALLARAT": {
+    "lat": -37.5681956,
+    "lon": 143.8460926,
+    "precision": "street"
+  },
+  "Drysdale-Ocean Grove Road|WALLINGTON": {
+    "lat": -38.2282851,
+    "lon": 144.5414262,
+    "precision": "street"
+  },
+  "Duff Street|CRANBOURNE WEST": {
+    "lat": -38.101137,
+    "lon": 145.246727,
+    "precision": "street"
+  },
+  "Duke Street|SUNSHINE": {
+    "lat": -37.7917294,
+    "lon": 144.8451003,
+    "precision": "street"
+  },
+  "Dunblane Road|NOBLE PARK": {
+    "lat": -37.9610953,
+    "lon": 145.180746,
+    "precision": "street"
+  },
+  "Duncan Drive|PAKENHAM": {
+    "lat": -38.0767734,
+    "lon": 145.4702496,
+    "precision": "street"
+  },
+  "Duncans Road|WERRIBEE": {
+    "lat": -37.9017203,
+    "lon": 144.6626621,
+    "precision": "street"
+  },
+  "Dundas Road|MARYBOROUGH": {
+    "lat": -37.0363189,
+    "lon": 143.7353951,
+    "precision": "street"
+  },
+  "Dundas Street|PRESTON": {
+    "lat": -37.753506,
+    "lon": 145.0122981,
+    "precision": "street"
+  },
+  "Dundas Street|RYE": {
+    "lat": -38.3705323,
+    "lon": 144.8192088,
+    "precision": "street"
+  },
+  "Dunkeld-Cavendish Road|MOUTAJUP": {
+    "lat": -37.6478733,
+    "lon": 142.2889831,
+    "precision": "street"
+  },
+  "Dunne Street|KINGSBURY": {
+    "lat": -37.7166676,
+    "lon": 145.0426247,
+    "precision": "street"
+  },
+  "Dunns Creek Road|DROMANA": {
+    "lat": -38.3321635,
+    "lon": 145.0091234,
+    "precision": "street"
+  },
+  "Dwyer Street|KALKALLO": {
+    "lat": -37.5271962,
+    "lon": 144.9570187,
+    "precision": "street"
+  },
+  "Dynon Road|WEST MELBOURNE": {
+    "lat": -37.8044794,
+    "lon": 144.9347114,
+    "precision": "street"
+  },
+  "Eaglehawk Road|CALIFORNIA GULLY": {
+    "lat": -36.7320275,
+    "lon": 144.2572713,
+    "precision": "street"
+  },
+  "Eaglehawk Road|LONG GULLY": {
+    "lat": -36.7505698,
+    "lon": 144.2590583,
+    "precision": "street"
+  },
+  "East Boundary Road|BENTLEIGH EAST": {
+    "lat": -37.9174801,
+    "lon": 145.0599286,
+    "precision": "street"
+  },
+  "East Esplanade|ST ALBANS": {
+    "lat": -37.735918,
+    "lon": 144.7962298,
+    "precision": "street"
+  },
+  "East Street|HADFIELD": {
+    "lat": -37.7046923,
+    "lon": 144.9511731,
+    "precision": "street"
+  },
+  "Eastbourne Road|ROSEBUD": {
+    "lat": -38.3676602,
+    "lon": 144.8985109,
+    "precision": "street"
+  },
+  "Eastfield Road|CROYDON": {
+    "lat": -37.8098407,
+    "lon": 145.2640106,
+    "precision": "street"
+  },
+  "Eaststone Avenue|WOLLERT": {
+    "lat": -37.6171822,
+    "lon": 145.0009748,
+    "precision": "street"
+  },
+  "Echuca-Kyabram Road|ECHUCA": {
+    "lat": -36.1443587,
+    "lon": 144.7651432,
+    "precision": "street"
+  },
+  "Echuca-Mooroopna Road|MOOROOPNA NORTH": {
+    "lat": -36.3250746,
+    "lon": 145.3015497,
+    "precision": "suburb"
+  },
+  "Echuca-Mooroopna Road|UNDERA": {
+    "lat": -36.2735774,
+    "lon": 145.2152188,
+    "precision": "street"
+  },
+  "Echuca-Mooroopna Road|ST GERMAINS": {
+    "lat": -36.2488771,
+    "lon": 145.1726745,
+    "precision": "street"
+  },
+  "Echuca-Nanneella Road|NANNEELLA": {
+    "lat": -36.3207111,
+    "lon": 144.7774324,
+    "precision": "street"
+  },
+  "Edenvale Boulevard|WOLLERT": {
+    "lat": -37.6174322,
+    "lon": 145.0152725,
+    "precision": "street"
+  },
+  "Edgar Street|PORTLAND": {
+    "lat": -38.3630094,
+    "lon": 141.5945396,
+    "precision": "street"
+  },
+  "Edgars Road|LALOR": {
+    "lat": -37.6631854,
+    "lon": 145.0056984,
+    "precision": "street"
+  },
+  "Edgars Road|EPPING": {
+    "lat": -37.6303173,
+    "lon": 145.0059806,
+    "precision": "street"
+  },
+  "Edgars Road|WOLLERT": {
+    "lat": -37.6130814,
+    "lon": 145.006487,
+    "precision": "street"
+  },
+  "Edward Road|CHIRNSIDE PARK": {
+    "lat": -37.750374,
+    "lon": 145.3176106,
+    "precision": "street"
+  },
+  "Edwardes Street|RESERVOIR": {
+    "lat": -37.715723,
+    "lon": 145.0005171,
+    "precision": "street"
+  },
+  "Edwards Road|JACKASS FLAT": {
+    "lat": -36.7210845,
+    "lon": 144.2823309,
+    "precision": "street"
+  },
+  "Edwards Road|MAIDEN GULLY": {
+    "lat": -36.7532901,
+    "lon": 144.2175063,
+    "precision": "street"
+  },
+  "Edwards Road|MARONG": {
+    "lat": -36.7678745,
+    "lon": 144.1654903,
+    "precision": "street"
+  },
+  "Eighth Street|MILDURA": {
+    "lat": -34.184572,
+    "lon": 142.1620978,
+    "precision": "street"
+  },
+  "Eildon-Jamieson Road|EILDON": {
+    "lat": -37.3653517,
+    "lon": 146.0050313,
+    "precision": "street"
+  },
+  "Eildon-Jamieson Road|JAMIESON": {
+    "lat": -37.2871781,
+    "lon": 146.1387561,
+    "precision": "street"
+  },
+  "Elcho Road|LARA": {
+    "lat": -38.0253287,
+    "lon": 144.3659119,
+    "precision": "street"
+  },
+  "Elder Street|WATSONIA": {
+    "lat": -37.7138988,
+    "lon": 145.0891996,
+    "precision": "street"
+  },
+  "Elevation Boulevard|CRAIGIEBURN": {
+    "lat": -37.5992437,
+    "lon": 144.8951472,
+    "precision": "street"
+  },
+  "Eleventh Street|IRYMPLE": {
+    "lat": -34.2151118,
+    "lon": 142.1879556,
+    "precision": "street"
+  },
+  "Eleventh Street|MILDURA": {
+    "lat": -34.2052584,
+    "lon": 142.1761769,
+    "precision": "street"
+  },
+  "Elgar Road|BOX HILL SOUTH": {
+    "lat": -37.8405145,
+    "lon": 145.1106223,
+    "precision": "street"
+  },
+  "Elgar Road|BURWOOD": {
+    "lat": -37.8462963,
+    "lon": 145.1095953,
+    "precision": "street"
+  },
+  "Elizabeth Drive|SUNBURY": {
+    "lat": -37.5714981,
+    "lon": 144.7184571,
+    "precision": "street"
+  },
+  "Elizabeth Street|COBURG": {
+    "lat": -37.740077,
+    "lon": 144.9809864,
+    "precision": "street"
+  },
+  "Elizabeth Street|ARARAT": {
+    "lat": -37.2905172,
+    "lon": 142.9253334,
+    "precision": "street"
+  },
+  "Elizabeth Street|EDENHOPE": {
+    "lat": -37.0362239,
+    "lon": 141.3034712,
+    "precision": "street"
+  },
+  "Ellscott Boulevard|MICKLEHAM": {
+    "lat": -37.5358955,
+    "lon": 144.8985877,
+    "precision": "street"
+  },
+  "Eltham-Yarra Glen Road|KANGAROO GROUND": {
+    "lat": -37.6954017,
+    "lon": 145.2148983,
+    "precision": "street"
+  },
+  "Eltham-Yarra Glen Road|CHRISTMAS HILLS": {
+    "lat": -37.6639011,
+    "lon": 145.2681205,
+    "precision": "street"
+  },
+  "Eltham-Yarra Glen Road|WATSONS CREEK": {
+    "lat": -37.6639011,
+    "lon": 145.2681205,
+    "precision": "street"
+  },
+  "Elvins Street|MANSFIELD": {
+    "lat": -37.0541789,
+    "lon": 146.0799545,
+    "precision": "street"
+  },
+  "Elwers Road|ROSEBUD": {
+    "lat": -38.3576236,
+    "lon": 144.9183696,
+    "precision": "street"
+  },
+  "Emu Creek Road|STRATHFIELDSAYE": {
+    "lat": -36.8230948,
+    "lon": 144.3558981,
+    "precision": "street"
+  },
+  "Emu Road|MAIDSTONE": {
+    "lat": -37.7796496,
+    "lon": 144.8798403,
+    "precision": "street"
+  },
+  "Epping Road|WOLLERT": {
+    "lat": -37.6101325,
+    "lon": 145.031473,
+    "precision": "street"
+  },
+  "Epping Road|WOODSTOCK": {
+    "lat": -37.5495736,
+    "lon": 145.0306175,
+    "precision": "street"
+  },
+  "Epsom Road|ASCOT VALE": {
+    "lat": -37.7833654,
+    "lon": 144.917448,
+    "precision": "street"
+  },
+  "Epsom-Barnadown Road|ASCOT": {
+    "lat": -36.6974811,
+    "lon": 144.3418127,
+    "precision": "street"
+  },
+  "Eramosa Road East|SOMERVILLE": {
+    "lat": -38.2239249,
+    "lon": 145.2171844,
+    "precision": "street"
+  },
+  "Ernst Wanke Road|BERWICK": {
+    "lat": -38.0151637,
+    "lon": 145.3264704,
+    "precision": "street"
+  },
+  "Erskine Road|MACLEOD": {
+    "lat": -37.729607,
+    "lon": 145.0758716,
+    "precision": "street"
+  },
+  "Esplanade|BRIGHTON": {
+    "lat": -37.9091465,
+    "lon": 144.9865816,
+    "precision": "street"
+  },
+  "Esplanade|ALTONA": {
+    "lat": -37.875079,
+    "lon": 144.8141946,
+    "precision": "street"
+  },
+  "Essex Street|WEST FOOTSCRAY": {
+    "lat": -37.7926077,
+    "lon": 144.8687246,
+    "precision": "street"
+  },
+  "Ester Street|GREENSBOROUGH": {
+    "lat": -37.7053466,
+    "lon": 145.0988507,
+    "precision": "street"
+  },
+  "Etiwanda Avenue|MILDURA": {
+    "lat": -34.2141529,
+    "lon": 142.1473855,
+    "precision": "street"
+  },
+  "Eureka Street|BALLARAT EAST": {
+    "lat": -37.5658265,
+    "lon": 143.8723257,
+    "precision": "street"
+  },
+  "Euroa-Mansfield Road|EUROA": {
+    "lat": -36.8300879,
+    "lon": 145.5659211,
+    "precision": "street"
+  },
+  "Euroa-Mansfield Road|GOORAM": {
+    "lat": -36.9051699,
+    "lon": 145.6335561,
+    "precision": "street"
+  },
+  "Euroa-Mansfield Road|MERTON": {
+    "lat": -36.9358846,
+    "lon": 145.6667079,
+    "precision": "street"
+  },
+  "Euroa-Shepparton Road|EUROA": {
+    "lat": -36.7468879,
+    "lon": 145.5656693,
+    "precision": "street"
+  },
+  "Euroa-Shepparton Road|MIEPOLL": {
+    "lat": -36.6495414,
+    "lon": 145.4855243,
+    "precision": "street"
+  },
+  "Everleigh Drive|DIAMOND CREEK": {
+    "lat": -37.6624,
+    "lon": 145.1530356,
+    "precision": "street"
+  },
+  "Exford Road|EXFORD": {
+    "lat": -37.7479446,
+    "lon": 144.571903,
+    "precision": "street"
+  },
+  "Exford Road|MELTON SOUTH": {
+    "lat": -37.7055879,
+    "lon": 144.5745555,
+    "precision": "street"
+  },
+  "Eynesbury Road|EYNESBURY": {
+    "lat": -37.7817709,
+    "lon": 144.5655474,
+    "precision": "street"
+  },
+  "Eyre Street|ECHUCA": {
+    "lat": -36.1356173,
+    "lon": 144.7449563,
+    "precision": "street"
+  },
+  "Fairbairn Road|SUNSHINE WEST": {
+    "lat": -37.807077,
+    "lon": 144.8184564,
+    "precision": "street"
+  },
+  "Fairbank Road|CLAYTON SOUTH": {
+    "lat": -37.9415389,
+    "lon": 145.1263179,
+    "precision": "street"
+  },
+  "Federation Way|BOWSER": {
+    "lat": -36.2172052,
+    "lon": 146.379461,
+    "precision": "street"
+  },
+  "Fellmongers Road|BREAKWATER": {
+    "lat": -38.1797138,
+    "lon": 144.3770588,
+    "precision": "street"
+  },
+  "Felltimber Creek Road|WODONGA": {
+    "lat": -36.1367339,
+    "lon": 146.8629688,
+    "precision": "street"
+  },
+  "Ferntree Gully Road|FERNTREE GULLY": {
+    "lat": -37.8872876,
+    "lon": 145.2651254,
+    "precision": "street"
+  },
+  "Ferris Road|MELTON SOUTH": {
+    "lat": -37.7060279,
+    "lon": 144.5717723,
+    "precision": "suburb"
+  },
+  "Field Street|RYE": {
+    "lat": -38.375636,
+    "lon": 144.8321036,
+    "precision": "street"
+  },
+  "Fifteenth Street|IRYMPLE": {
+    "lat": -34.2344448,
+    "lon": 142.1694239,
+    "precision": "street"
+  },
+  "Finch Street|MALVERN EAST": {
+    "lat": -37.8733349,
+    "lon": 145.0429583,
+    "precision": "street"
+  },
+  "Findon Road|SOUTH MORANG": {
+    "lat": -37.6442302,
+    "lon": 145.0830856,
+    "precision": "street"
+  },
+  "Findon Road|EPPING": {
+    "lat": -37.6381171,
+    "lon": 145.0311936,
+    "precision": "street"
+  },
+  "Finlayson Street|ROSANNA": {
+    "lat": -37.7342401,
+    "lon": 145.0715293,
+    "precision": "street"
+  },
+  "Fischer Street|TORQUAY": {
+    "lat": -38.3085108,
+    "lon": 144.3294543,
+    "precision": "street"
+  },
+  "Fitzgerald Road|DERRIMUT": {
+    "lat": -37.8105139,
+    "lon": 144.7876447,
+    "precision": "street"
+  },
+  "Fitzgerald Road|SUNSHINE WEST": {
+    "lat": -37.7941533,
+    "lon": 144.78999,
+    "precision": "street"
+  },
+  "Fitzsimons Lane|TEMPLESTOWE": {
+    "lat": -37.7502672,
+    "lon": 145.1352594,
+    "precision": "street"
+  },
+  "Flaxen Hills Road|DOREEN": {
+    "lat": -37.5946394,
+    "lon": 145.1319606,
+    "precision": "street"
+  },
+  "Flaxman Street|WARRNAMBOOL": {
+    "lat": -38.390817,
+    "lon": 142.5031881,
+    "precision": "street"
+  },
+  "Flora Avenue|MILDURA": {
+    "lat": -34.1666267,
+    "lon": 142.1355428,
+    "precision": "street"
+  },
+  "Ford Road|SHEPPARTON": {
+    "lat": -36.3475375,
+    "lon": 145.405878,
+    "precision": "street"
+  },
+  "Forrest Street|ALBION": {
+    "lat": -37.7850705,
+    "lon": 144.8245164,
+    "precision": "street"
+  },
+  "Forrest Street|ARDEER": {
+    "lat": -37.782499,
+    "lon": 144.799746,
+    "precision": "street"
+  },
+  "Foster Street|SALE": {
+    "lat": -38.1117822,
+    "lon": 147.0589587,
+    "precision": "street"
+  },
+  "Fosters Road|KEILOR PARK": {
+    "lat": -37.7248001,
+    "lon": 144.8523477,
+    "precision": "street"
+  },
+  "Fourteenth Street|MILDURA": {
+    "lat": -34.1911555,
+    "lon": 142.1385497,
+    "precision": "street"
+  },
+  "Fourteenth Street|IRYMPLE": {
+    "lat": -34.2330111,
+    "lon": 142.1885956,
+    "precision": "street"
+  },
+  "Frankston-Dandenong Road|FRANKSTON": {
+    "lat": -38.1298004,
+    "lon": 145.1320899,
+    "precision": "street"
+  },
+  "Frankston-Dandenong Road|SEAFORD": {
+    "lat": -38.1258778,
+    "lon": 145.1375887,
+    "precision": "street"
+  },
+  "Frankston-Dandenong Road|BANGHOLME": {
+    "lat": -38.0561576,
+    "lon": 145.2070348,
+    "precision": "street"
+  },
+  "Frankston-Flinders Road|BITTERN": {
+    "lat": -38.3373959,
+    "lon": 145.1771181,
+    "precision": "street"
+  },
+  "Frankston-Flinders Road|SOMERVILLE": {
+    "lat": -38.2231293,
+    "lon": 145.175073,
+    "precision": "street"
+  },
+  "Frankston-Flinders Road|TYABB": {
+    "lat": -38.2729332,
+    "lon": 145.1898592,
+    "precision": "street"
+  },
+  "Frawley Road|HALLAM": {
+    "lat": -38.0008785,
+    "lon": 145.2677137,
+    "precision": "street"
+  },
+  "Frost Drive|DELAHEY": {
+    "lat": -37.7239665,
+    "lon": 144.773558,
+    "precision": "street"
+  },
+  "Fryers Road|HIGHTON": {
+    "lat": -38.1857748,
+    "lon": 144.3208854,
+    "precision": "street"
+  },
+  "Fullarton Road|KEILOR PARK": {
+    "lat": -37.7260135,
+    "lon": 144.8546711,
+    "precision": "street"
+  },
+  "Fulton Road|BLACKBURN SOUTH": {
+    "lat": -37.842481,
+    "lon": 145.1423221,
+    "precision": "street"
+  },
+  "Furlong Road|ST ALBANS": {
+    "lat": -37.7602878,
+    "lon": 144.811502,
+    "precision": "street"
+  },
+  "Furlong Road|SUNSHINE NORTH": {
+    "lat": -37.7620128,
+    "lon": 144.8260058,
+    "precision": "street"
+  },
+  "Furness Street|KANGAROO FLAT": {
+    "lat": -36.8179032,
+    "lon": 144.2336401,
+    "precision": "street"
+  },
+  "Fyansford-Gheringhap Road|GHERINGHAP": {
+    "lat": -38.0748361,
+    "lon": 144.2320795,
+    "precision": "suburb"
+  },
+  "Gaffney Street|PASCOE VALE": {
+    "lat": -37.7316601,
+    "lon": 144.940022,
+    "precision": "street"
+  },
+  "Gallaghers Road|GLEN WAVERLEY": {
+    "lat": -37.884736,
+    "lon": 145.1772806,
+    "precision": "street"
+  },
+  "Gap Road|SUNBURY": {
+    "lat": -37.5792551,
+    "lon": 144.7174731,
+    "precision": "street"
+  },
+  "Garden Road|CLAYTON": {
+    "lat": -37.9255766,
+    "lon": 145.1454351,
+    "precision": "street"
+  },
+  "Garden Street|PORTLAND": {
+    "lat": -38.3320131,
+    "lon": 141.5997521,
+    "precision": "street"
+  },
+  "Gardenia Street|HORSHAM": {
+    "lat": -36.7226969,
+    "lon": 142.1929209,
+    "precision": "street"
+  },
+  "Gateshead Drive|WANTIRNA SOUTH": {
+    "lat": -37.8662749,
+    "lon": 145.2412148,
+    "precision": "street"
+  },
+  "Gayview Drive|WODONGA WEST": {
+    "lat": -36.1211066,
+    "lon": 146.856138,
+    "precision": "street"
+  },
+  "Gear Avenue|MOUNT HELEN": {
+    "lat": -37.6301609,
+    "lon": 143.8996408,
+    "precision": "street"
+  },
+  "Geelong Road|BANNOCKBURN": {
+    "lat": -38.0447127,
+    "lon": 144.1730041,
+    "precision": "street"
+  },
+  "Geelong-Bacchus Marsh Road|BACCHUS MARSH": {
+    "lat": -37.6806216,
+    "lon": 144.4344234,
+    "precision": "street"
+  },
+  "Geelong-Ballan Road|BALLAN": {
+    "lat": -37.7746855,
+    "lon": 144.2166962,
+    "precision": "street"
+  },
+  "Geelong-Ballan Road|BEREMBOKE": {
+    "lat": -37.7757374,
+    "lon": 144.2320356,
+    "precision": "suburb"
+  },
+  "Geelong-Ballan Road|MOUNT WALLACE": {
+    "lat": -37.7746855,
+    "lon": 144.2166962,
+    "precision": "street"
+  },
+  "George Street|SANDRINGHAM": {
+    "lat": -37.9590062,
+    "lon": 145.0289257,
+    "precision": "street"
+  },
+  "George Street|HAMILTON": {
+    "lat": -37.7457262,
+    "lon": 142.034326,
+    "precision": "street"
+  },
+  "Gibsons Road|SALE": {
+    "lat": -38.0927408,
+    "lon": 147.0850963,
+    "precision": "street"
+  },
+  "Gilbert Road|RESERVOIR": {
+    "lat": -37.7191139,
+    "lon": 144.9932648,
+    "precision": "street"
+  },
+  "Gillespie Road|KINGS PARK": {
+    "lat": -37.7324138,
+    "lon": 144.765769,
+    "precision": "street"
+  },
+  "Gillies Road|MOUNT ROWAN": {
+    "lat": -37.4924709,
+    "lon": 143.8312186,
+    "precision": "street"
+  },
+  "Gillies Road|ASCOT": {
+    "lat": -36.707622,
+    "lon": 144.33634,
+    "precision": "suburb"
+  },
+  "Gillies Road|BALD HILLS": {
+    "lat": -37.447638,
+    "lon": 143.8381364,
+    "precision": "suburb"
+  },
+  "Gillies Road|SULKY": {
+    "lat": -37.4793874,
+    "lon": 143.8336422,
+    "precision": "street"
+  },
+  "Gillies Street|MARYBOROUGH": {
+    "lat": -37.0429322,
+    "lon": 143.7494877,
+    "precision": "street"
+  },
+  "Gillwell Road|LALOR": {
+    "lat": -37.6587177,
+    "lon": 144.9970877,
+    "precision": "street"
+  },
+  "Gisborne - Melton Road|KURUNJANG": {
+    "lat": -37.6712785,
+    "lon": 144.5982692,
+    "precision": "street"
+  },
+  "Gisborne Road|COIMADAI": {
+    "lat": -37.6292112,
+    "lon": 144.467337,
+    "precision": "street"
+  },
+  "Gisborne Road|BACCHUS MARSH": {
+    "lat": -37.6693729,
+    "lon": 144.4371311,
+    "precision": "street"
+  },
+  "Gisborne-Melton Road|TOOLERN VALE": {
+    "lat": -37.6092266,
+    "lon": 144.5907393,
+    "precision": "street"
+  },
+  "Gisborne-Melton Road|KURUNJANG": {
+    "lat": -37.6602713,
+    "lon": 144.600643,
+    "precision": "street"
+  },
+  "Gisborne-Melton Road|MELTON": {
+    "lat": -37.4978041,
+    "lon": 144.5856057,
+    "precision": "street"
+  },
+  "Gladesville Boulevard|PATTERSON LAKES": {
+    "lat": -38.0705734,
+    "lon": 145.1456827,
+    "precision": "street"
+  },
+  "Gladstone Road|DANDENONG NORTH": {
+    "lat": -37.9650405,
+    "lon": 145.2057585,
+    "precision": "street"
+  },
+  "Gladstone Street|MARYBOROUGH": {
+    "lat": -37.0345555,
+    "lon": 143.740595,
+    "precision": "street"
+  },
+  "Glen Huntly Road|ELWOOD": {
+    "lat": -37.8826099,
+    "lon": 144.9861814,
+    "precision": "street"
+  },
+  "Glen Iris Road|GLEN IRIS": {
+    "lat": -37.849794,
+    "lon": 145.0680967,
+    "precision": "street"
+  },
+  "Glen Katherine Drive|ST HELENA": {
+    "lat": -37.6926229,
+    "lon": 145.132955,
+    "precision": "street"
+  },
+  "Glenbarry Road|CAMPBELLFIELD": {
+    "lat": -37.6635102,
+    "lon": 144.9596095,
+    "precision": "street"
+  },
+  "Glencairn Drive|GREENVALE": {
+    "lat": -37.6491998,
+    "lon": 144.8894454,
+    "precision": "street"
+  },
+  "Glenelg Highway|DUNKELD": {
+    "lat": -37.6627441,
+    "lon": 142.2866723,
+    "precision": "street"
+  },
+  "Glenelg Highway|WICKLIFFE": {
+    "lat": -37.6948492,
+    "lon": 142.7254252,
+    "precision": "street"
+  },
+  "Glenelg Highway|LAKE BOLAC": {
+    "lat": -37.692223,
+    "lon": 142.9032533,
+    "precision": "street"
+  },
+  "Glenelg Highway|WARRAYURE": {
+    "lat": -37.7012742,
+    "lon": 142.1957496,
+    "precision": "street"
+  },
+  "Glenelg Highway|SMYTHESDALE": {
+    "lat": -37.6096032,
+    "lon": 143.7368776,
+    "precision": "street"
+  },
+  "Glenelg Highway|CARRANBALLAC": {
+    "lat": -37.7009922,
+    "lon": 143.2145709,
+    "precision": "street"
+  },
+  "Glenelg Highway|SKIPTON": {
+    "lat": -37.6860929,
+    "lon": 143.3734055,
+    "precision": "street"
+  },
+  "Glenelg Highway|SMYTHES CREEK": {
+    "lat": -37.590537,
+    "lon": 143.8050283,
+    "precision": "street"
+  },
+  "Glenelg Highway|CASTERTON": {
+    "lat": -37.5808105,
+    "lon": 141.4208247,
+    "precision": "street"
+  },
+  "Glenelg Highway|STREATHAM": {
+    "lat": -37.6818305,
+    "lon": 143.0705175,
+    "precision": "street"
+  },
+  "Glenelg Highway|WESTMERE": {
+    "lat": -37.6872513,
+    "lon": 143.0155726,
+    "precision": "street"
+  },
+  "Glenelg Highway|COLERAINE": {
+    "lat": -37.6262542,
+    "lon": 141.7753985,
+    "precision": "street"
+  },
+  "Glenelg Highway|GLENTHOMPSON": {
+    "lat": -37.6344747,
+    "lon": 142.5818205,
+    "precision": "street"
+  },
+  "Glenelg Highway|HAMILTON": {
+    "lat": -37.7369658,
+    "lon": 142.0152786,
+    "precision": "street"
+  },
+  "Glenelg Highway|WANNON": {
+    "lat": -37.6808049,
+    "lon": 141.8702437,
+    "precision": "street"
+  },
+  "Glenelg Highway|PITTONG": {
+    "lat": -37.6769272,
+    "lon": 143.504752,
+    "precision": "street"
+  },
+  "Glenfern Road|UPWEY": {
+    "lat": -37.9185869,
+    "lon": 145.3279422,
+    "precision": "street"
+  },
+  "Glenferrie Road|HAWTHORN": {
+    "lat": -37.8317166,
+    "lon": 145.0336827,
+    "precision": "street"
+  },
+  "Glenferrie Road|MALVERN": {
+    "lat": -37.8652816,
+    "lon": 145.0278638,
+    "precision": "street"
+  },
+  "Glengala Road|SUNSHINE WEST": {
+    "lat": -37.7882889,
+    "lon": 144.8249446,
+    "precision": "street"
+  },
+  "Glengarry West Road|GLENGARRY WEST": {
+    "lat": -38.1378087,
+    "lon": 146.5378706,
+    "precision": "street"
+  },
+  "Glenrowan Myrtleford Road|MARKWOOD": {
+    "lat": -36.4758914,
+    "lon": 146.5403086,
+    "precision": "street"
+  },
+  "Glenrowan-Myrtleford Road|WHOROULY": {
+    "lat": -36.5384335,
+    "lon": 146.6287472,
+    "precision": "street"
+  },
+  "Glenrowan-Myrtleford Road|LACEBY": {
+    "lat": -36.4333032,
+    "lon": 146.3021377,
+    "precision": "street"
+  },
+  "Glenrowan-Myrtleford Road|OXLEY": {
+    "lat": -36.4398206,
+    "lon": 146.3593651,
+    "precision": "street"
+  },
+  "Glenroy Road|GLENROY": {
+    "lat": -37.7062927,
+    "lon": 144.9285315,
+    "precision": "street"
+  },
+  "Golf Course Road|HAVEN": {
+    "lat": -36.7406805,
+    "lon": 142.1881988,
+    "precision": "street"
+  },
+  "Golf Links Road|BARWON HEADS": {
+    "lat": -38.2844074,
+    "lon": 144.4866758,
+    "precision": "street"
+  },
+  "Golf Links Road|NARRE WARREN": {
+    "lat": -38.0416051,
+    "lon": 145.3044294,
+    "precision": "street"
+  },
+  "Golf Links Road|FRANKSTON": {
+    "lat": -38.1704736,
+    "lon": 145.1456693,
+    "precision": "street"
+  },
+  "Goodwin Street|BENALLA": {
+    "lat": -36.5498333,
+    "lon": 145.9688347,
+    "precision": "street"
+  },
+  "Gordon Street|WODONGA": {
+    "lat": -36.1342929,
+    "lon": 146.8831229,
+    "precision": "street"
+  },
+  "Gordons Road|SOUTH MORANG": {
+    "lat": -37.6258647,
+    "lon": 145.0729147,
+    "precision": "street"
+  },
+  "Gorge Road|SOUTH MORANG": {
+    "lat": -37.6512523,
+    "lon": 145.0886104,
+    "precision": "street"
+  },
+  "Goulburn Valley Freeway|NAGAMBIE": {
+    "lat": -36.7738227,
+    "lon": 145.1781593,
+    "precision": "street"
+  },
+  "Goulburn Valley Freeway|ARCADIA": {
+    "lat": -36.5254908,
+    "lon": 145.3724518,
+    "precision": "street"
+  },
+  "Goulburn Valley Highway|SEYMOUR": {
+    "lat": -36.9895375,
+    "lon": 145.1429465,
+    "precision": "street"
+  },
+  "Goulburn Valley Highway|NUMURKAH": {
+    "lat": -36.0916922,
+    "lon": 145.4318384,
+    "precision": "street"
+  },
+  "Goulburn Valley Highway|MOLESWORTH": {
+    "lat": -37.1722424,
+    "lon": 145.5015059,
+    "precision": "street"
+  },
+  "Goulburn Valley Highway|EILDON": {
+    "lat": -37.2364076,
+    "lon": 145.9110519,
+    "precision": "street"
+  },
+  "Goulburn Valley Highway|KORIELLA": {
+    "lat": -37.1436059,
+    "lon": 145.6307608,
+    "precision": "street"
+  },
+  "Goulburn Valley Highway|HOMEWOOD": {
+    "lat": -37.1777566,
+    "lon": 145.3154714,
+    "precision": "street"
+  },
+  "Goulburn Valley Highway|KOONOOMOO": {
+    "lat": -35.8233787,
+    "lon": 145.5512739,
+    "precision": "street"
+  },
+  "Goulburn Valley Highway|WUNGHNU": {
+    "lat": -36.1222795,
+    "lon": 145.4317731,
+    "precision": "street"
+  },
+  "Goulburn Valley Highway|TALLYGAROOPNA": {
+    "lat": -36.2587402,
+    "lon": 145.4318221,
+    "precision": "street"
+  },
+  "Goulburn Valley Hwy|SHEPPARTON NORTH": {
+    "lat": -36.3450432,
+    "lon": 145.4023689,
+    "precision": "street"
+  },
+  "Gourlay Road|TAYLORS HILL": {
+    "lat": -37.7047041,
+    "lon": 144.741947,
+    "precision": "street"
+  },
+  "Gourlay Road|HILLSIDE": {
+    "lat": -37.6994365,
+    "lon": 144.7429695,
+    "precision": "street"
+  },
+  "Governor Road|BRAESIDE": {
+    "lat": -38.0083092,
+    "lon": 145.1105512,
+    "precision": "street"
+  },
+  "Gower Street|PRESTON": {
+    "lat": -37.7421869,
+    "lon": 145.0193721,
+    "precision": "street"
+  },
+  "Goynes Road|EPSOM": {
+    "lat": -36.717287,
+    "lon": 144.3072006,
+    "precision": "street"
+  },
+  "Graham Road|KYVALLEY": {
+    "lat": -36.2988124,
+    "lon": 145.0295379,
+    "precision": "street"
+  },
+  "Graham Street|WONTHAGGI": {
+    "lat": -38.6059958,
+    "lon": 145.5921998,
+    "precision": "street"
+  },
+  "Graham Street|PORT MELBOURNE": {
+    "lat": -37.8315361,
+    "lon": 144.9321543,
+    "precision": "street"
+  },
+  "Graham Street|SHEPPARTON": {
+    "lat": -36.3625126,
+    "lon": 145.4025684,
+    "precision": "street"
+  },
+  "Grampians Road|MOKEPILLY": {
+    "lat": -37.0933978,
+    "lon": 142.6113169,
+    "precision": "street"
+  },
+  "Grampians Road|ILLAWARRA": {
+    "lat": -37.081244,
+    "lon": 142.6584119,
+    "precision": "street"
+  },
+  "Grampians Road|FYANS CREEK": {
+    "lat": -37.1058267,
+    "lon": 142.585086,
+    "precision": "street"
+  },
+  "Grampians Road|HALLS GAP": {
+    "lat": -37.1363709,
+    "lon": 142.5201234,
+    "precision": "street"
+  },
+  "Grand Boulevard|CRAIGIEBURN": {
+    "lat": -37.5716441,
+    "lon": 144.9104767,
+    "precision": "street"
+  },
+  "Grandvue Boulevard|PAKENHAM": {
+    "lat": -38.0567771,
+    "lon": 145.4411806,
+    "precision": "street"
+  },
+  "Grange Drive|SOUTH MORANG": {
+    "lat": -37.6410243,
+    "lon": 145.0856835,
+    "precision": "street"
+  }
+}

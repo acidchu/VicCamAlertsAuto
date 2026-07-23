@@ -1,0 +1,42 @@
+name: Update camera locations
+
+on:
+  schedule:
+    # 16:30 UTC = 02:30/03:30 Melbourne (AEST/AEDT) -- once a day, off-peak.
+    - cron: "30 16 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-cameras
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install openpyxl
+
+      - name: Run data pipeline
+        run: python tools/build_cameras_json.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/cameras.json app/src/main/assets/cameras.json tools/geocode_cache.json
+          if git diff --cached --quiet; then
+            echo "No changes -- vic.gov.au data is unchanged since last run."
+          else
+            git commit -m "Update camera locations $(date -u +%Y-%m-%d)"
+            git push
+          fi
