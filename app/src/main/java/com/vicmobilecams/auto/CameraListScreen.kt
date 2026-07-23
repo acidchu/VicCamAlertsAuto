@@ -3,6 +3,7 @@ package com.vicmobilecams.auto
 import android.Manifest
 import android.content.pm.PackageManager
 import android.location.LocationManager
+import android.os.Build
 import android.text.Spannable
 import android.text.SpannableString
 import androidx.car.app.CarContext
@@ -104,9 +105,19 @@ class CameraListScreen(carContext: CarContext) : Screen(carContext) {
     private fun ensureLocationPermission() {
         if (hasLocationPermission() || hasRequestedPermission) return
         hasRequestedPermission = true
-        carContext.requestPermissions(
-            listOf(Manifest.permission.ACCESS_FINE_LOCATION, Manifest.permission.ACCESS_COARSE_LOCATION)
-        ) { _, _ -> invalidate() }
+
+        val permissions = mutableListOf(
+            Manifest.permission.ACCESS_FINE_LOCATION,
+            Manifest.permission.ACCESS_COARSE_LOCATION,
+        )
+        // Requested here too (not just from MainActivity) since CameraAlertService's proximity
+        // alerts start as soon as Android Auto connects -- without this, alerts fire but never
+        // display as notifications.
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+            permissions.add(Manifest.permission.POST_NOTIFICATIONS)
+        }
+
+        carContext.requestPermissions(permissions) { _, _ -> invalidate() }
     }
 
     private fun contentLimit(): Int {

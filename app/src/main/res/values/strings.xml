@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Vic Camera Alerts</string>
-    <string name="phone_instructions">Vic Camera Alerts has no phone screen of its own — it runs inside Android Auto.\n\nTo use it:\n1. Grant location access below.\n2. Plug your phone into Android Auto (or use wireless Android Auto).\n3. In the Android Auto app on your phone, go to Settings → tap the version number 10 times to unlock Developer settings → enable “Unknown sources”.\n4. Open Android Auto in the car — “Vic Camera Alerts” will appear as an app icon showing nearby approved mobile camera locations.\n\nCamera location data comes from the Victorian Government’s monthly published list. The app checks for updates once a day over the internet and falls back to the copy bundled at install time when offline.</string>
+    <string name="phone_instructions">Vic Camera Alerts mostly runs inside Android Auto, not on this phone screen.\n\nTo use it:\n1. Grant location + notification access below.\n2. Plug your phone into Android Auto (or use wireless Android Auto).\n3. In the Android Auto app on your phone, go to Settings → tap the version number 10 times to unlock Developer settings → enable “Unknown sources”.\n4. Open Android Auto in the car — “Vic Camera Alerts” will appear as an app icon showing nearby approved mobile camera locations, and it will automatically start sending a heads-up notification when you get close to one.\n\nAlerts are straight-line proximity, not route-aware — you may get a heads-up for a camera that\'s close by on a different road. You can also start/stop alerts on the phone directly below, without Android Auto connected, to test them.\n\nCamera location data comes from the Victorian Government’s monthly published list. The app checks for updates once a day over the internet and falls back to the copy bundled at install time when offline.</string>
     <string name="grant_location_permission">Grant location permission</string>
     <string name="location_permission_granted">Location permission granted.</string>
+    <string name="start_alerts_button">Start alerts (test on phone)</string>
+    <string name="stop_alerts_button">Stop alerts</string>
+    <string name="alert_channel_name">Camera alerts</string>
+    <string name="alert_channel_description">Notifies you when you\'re near an approved mobile camera location.</string>
+    <string name="monitoring_channel_name">Camera monitoring</string>
+    <string name="monitoring_notification_title">Watching for mobile cameras</string>
+    <string name="monitoring_notification_body">Vic Camera Alerts is checking your location for nearby cameras.</string>
+    <string name="camera_alert_title">Mobile camera nearby</string>
+    <string name="camera_alert_body">%1$s, %2$s — about %3$dm away</string>
 </resources>
