@@ -16,6 +16,6 @@ class CameraCarSession : Session() {
                 CameraAlertService.stop(carContext)
             }
         })
-        return CameraListScreen(carContext)
+        return CameraNavigationScreen(carContext)
     }
 }
