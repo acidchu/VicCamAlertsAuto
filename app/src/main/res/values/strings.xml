@@ -21,4 +21,7 @@
     <string name="calculating_route_message">Calculating route…</string>
     <string name="route_not_found_message">Could not find a route</string>
     <string name="arrived_message">You have arrived</string>
+    <string name="search_button">Go</string>
+    <string name="clear_route_button">Clear route</string>
+    <string name="routing_to_message">Routing to %1$s</string>
 </resources>
