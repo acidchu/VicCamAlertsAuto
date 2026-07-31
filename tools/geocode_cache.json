@@ -10503,5 +10503,85 @@
     "lat": -37.6763771,
     "lon": 144.5964875,
     "precision": "street"
+  },
+  "Geelong-Bacchus Marsh Road|BALLIANG EAST": {
+    "lat": -37.7940228,
+    "lon": 144.4149679,
+    "precision": "street"
+  },
+  "Greenhalghs Road|BUNKERS HILL": {
+    "lat": -37.5772342,
+    "lon": 143.7457846,
+    "precision": "street"
+  },
+  "Henty Highway|HAVEN": {
+    "lat": -36.7787537,
+    "lon": 142.177192,
+    "precision": "street"
+  },
+  "Kalkee Road|HORSHAM": {
+    "lat": -36.7006275,
+    "lon": 142.201134,
+    "precision": "street"
+  },
+  "Katamatite-Shepparton Road|CONGUPNA": {
+    "lat": -36.255513,
+    "lon": 145.4753275,
+    "precision": "street"
+  },
+  "Maffra-Briagolong Road|BOISDALE": {
+    "lat": -37.8831197,
+    "lon": 146.9880653,
+    "precision": "street"
+  },
+  "Natimuk Road|HORSHAM": {
+    "lat": -36.7216199,
+    "lon": 142.1794915,
+    "precision": "street"
+  },
+  "Tesselaar Road|WOLLERT": {
+    "lat": -37.6199853,
+    "lon": 144.9990868,
+    "precision": "street"
+  },
+  "Western Highway|KIATA": {
+    "lat": -36.3570781,
+    "lon": 141.7774709,
+    "precision": "street"
+  },
+  "Western Highway|MIDDLE CREEK": {
+    "lat": -37.382393,
+    "lon": 143.2289364,
+    "precision": "street"
+  },
+  "Reason Code|None": {
+    "lat": -37.8267775,
+    "lon": 145.0571218,
+    "precision": "suburb"
+  },
+  "A - Documented history of serious and major injury collision within the previous 3 years.|None": {
+    "lat": -37.8267775,
+    "lon": 145.0571218,
+    "precision": "suburb"
+  },
+  "B - Subject of a validated complaint of excessive speeds. For example from general public, local councils etc.|None": {
+    "lat": -37.8267775,
+    "lon": 145.0571218,
+    "precision": "suburb"
+  },
+  "C - Identified by police to be a speed-related problem site.|None": {
+    "lat": -37.8267775,
+    "lon": 145.0571218,
+    "precision": "suburb"
+  },
+  "D - Proposed speed enforcement by non-camera devices within specified site deemed not practicable/unsuitable.|None": {
+    "lat": -37.8267775,
+    "lon": 145.0571218,
+    "precision": "suburb"
+  },
+  "T - Reason/Audit Date will be progressively updated.|None": {
+    "lat": -37.8267775,
+    "lon": 145.0571218,
+    "precision": "suburb"
   }
 }
