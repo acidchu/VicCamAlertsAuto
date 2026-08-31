@@ -10583,5 +10583,15 @@
     "lat": -37.8267775,
     "lon": 145.0571218,
     "precision": "suburb"
+  },
+  "Barry Road|CAMPBELLFIELD": {
+    "lat": -37.6682856,
+    "lon": 144.9670203,
+    "precision": "street"
+  },
+  "Mt Derrimut Road|DERRIMUT": {
+    "lat": -37.804559,
+    "lon": 144.769985,
+    "precision": "street"
   }
 }
