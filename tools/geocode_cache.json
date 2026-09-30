@@ -10593,5 +10593,35 @@
     "lat": -37.804559,
     "lon": 144.769985,
     "precision": "street"
+  },
+  "Edgecombe Road|KYNETON": {
+    "lat": -37.2114283,
+    "lon": 144.4698367,
+    "precision": "street"
+  },
+  "Howard Street|EAGLEHAWK": {
+    "lat": -36.709559,
+    "lon": 144.2739918,
+    "precision": "street"
+  },
+  "McIvor Highway|LONGLEA": {
+    "lat": -36.77313,
+    "lon": 144.4247246,
+    "precision": "suburb"
+  },
+  "McIvor Highway|JUNORTOUN": {
+    "lat": -36.7617185,
+    "lon": 144.3289782,
+    "precision": "street"
+  },
+  "Northern Highway|HEATHCOTE": {
+    "lat": -36.8986355,
+    "lon": 144.6974973,
+    "precision": "street"
+  },
+  "Princes Highway|EUMEMMERRING": {
+    "lat": -38.0022237,
+    "lon": 145.2410836,
+    "precision": "street"
   }
 }
